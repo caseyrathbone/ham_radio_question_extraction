@@ -472,8 +472,7 @@ What is required to conduct communications with a digital station operating unde
 A. The station initiating the contact must be under local or remote control
 B. The interrogating transmission must be made by another automatically controlled station
 C. No third party traffic maybe be transmitted
-D. The control operator of the interrogating station must hold an Extra
-Class license
+D. The control operator of the interrogating station must hold an Extra Class license
 ~~
 
 
@@ -1101,31 +1100,25 @@ C. ARES
 D. Skywarn
 ~~
 
-
 G2E14 (D)
-What could be wrong if you cannot decode an RTTY or other FSK signal even though it is apparently tuned in properly? 
-A. The mark and space frequencies may be reversed 
+What could be wrong if you cannot decode an RTTY or other FSK signal even though it is apparently tuned in properly?
+A. The mark and space frequencies may be reversed
 B. You may have selected the wrong baud rate
- C. You may be listening on the wrong sideband
+C. You may be listening on the wrong sideband
 D. All of these choices are correct
 ~~
 
-
-
 SUBELEMENT G3 - RADIO WAVE PROPAGATION [3 Exam Questions - 3 Groups]
 
-
-G3A - Sunspots and solar radiation; ionospheric disturbances; propagation forecasting and indices
-
+G3A - Sunspots and solar radiation; ionospheric distrubances; propagation forecasting and indices
 
 G3A01 (A)
-What is the significance of the sunspot number with regard to HF propagation?
-A.  Higher sunspot numbers generally indicate a greater probability of good propagation at higher frequencies
-B.  Lower sunspot numbers generally indicate greater probability of sporadic E propagation
-C.  A zero sunspot number indicate radio propagation is not possible on any band
-D.  All of these choices are correct.
+What is the significane of the sunspot number with regard to HF propagation?
+A. Higher sunspot numbers generally indicate a greater probability of good propagation at higher frequencies
+B. Lower sunspot number generally indicate greater probability of sporadic E propagation
+C. A zero sunspot number indcate radio propagation is not possible on any band
+D. All of these choices are correct.
 ~~
-
 
 G3A02 (B)
 What effect does a Sudden Ionospheric Disturbance have on the daytime ionospheric propagation of HF radio waves?

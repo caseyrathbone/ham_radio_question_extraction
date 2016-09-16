@@ -1,10 +1,31 @@
 import re, sys, json
 
 def hasAnAnswer(line):
-    temp = re.search('[(][A|B|C|D][)]', line)
+    temp = re.search('[(][A-D][)]', line)
     if temp:
         return temp.group(0)[1]
     return None
+
+def trimAns(answer):
+    return answer[3:]
+
+def getQnA(answer, optA, optB, optC, optD):
+    if(answer == 'A'):
+        ans = optA;
+        opts = "[" + optB + ", " + optC + ", " + optD + "]"
+    elif (answer == 'B'):
+        ans = optB;
+        opts = "[" + optA + ", " + optC + ", " + optD + "]"
+    elif (answer == 'C'):
+        ans = optC;
+        opts = "[" + optA + ", " + optB + ", " + optD + "]"
+    elif (answer == 'D'):
+        ans = optD;
+        opts = "[" + optA + ", " + optB + ", " + optC + "]"
+    else:
+        print("Unknown answer?!?")
+        sys.exit("Error parsing input file")
+    return ans, opts
 
 if (len(sys.argv) < 2):
     sys.exit("Invalid number of parameters")
@@ -12,14 +33,14 @@ else:
     filename = sys.argv[1]
 
 inputfile = open(filename)
-outputfile = open(filename + '.parsable', 'w')
+outputfile = open(filename + '.json', 'w')
 
 my_text = inputfile.readlines()
 
 insideAQuestion = False
 comma = ""
 questionData = ""
-outputfile.writelines('[\n')
+outputfile.writelines('[')
 
 for line in my_text:
     answer = hasAnAnswer(line)
@@ -28,25 +49,24 @@ for line in my_text:
         insideAQuestion = True
     else:
         if line[0] == '~' and line[1] == '~':
-            splitdata = questionData.split("---")
+            print("Q: " + questionData)
+            identifier, answer, question, optionA, optionB, optionC, optionD = questionData.split("---")
+            answerVal, optsArray = getQnA(answer, trimAns(optionA), trimAns(optionB), trimAns(optionC), trimAns(optionD))
             jsondata = {
-                'identifier': splitdata[0],
-                'answer': splitdata[1],
-                'question': splitdata[2],
-                'option1': splitdata[3],
-                'option2': splitdata[4],
-                'option3': splitdata[5],
-                'option4': splitdata[6]
+                'identifier': identifier,
+                'question': question,
+                'answer': answerVal,
+                'options': optsArray
             }
-            print(json.dumps(jsondata, sort_keys=True, indent=4))
-            outputfile.writelines(comma + json.dumps(jsondata, sort_keys=True))
+            #print(json.dumps(jsondata, sort_keys=True, indent=4))
+            outputfile.writelines(comma + json.dumps(jsondata, sort_keys=True, indent=4))
             comma = ",\n"
             questionData = ""
             insideAQuestion = False
         else:
             questionData += "---" + line.strip()
 
-outputfile.writelines('\n]')
+outputfile.writelines(']')
 
 inputfile.close()
 outputfile.close()

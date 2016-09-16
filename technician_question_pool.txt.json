@@ -1,0 +1,2550 @@
+[{
+    "answer": "Advancing skills in the technical and communication phases of the radio art", 
+    "identifier": "T1A01", 
+    "options": "[Providing personal radio communications for as many citizens as possible, Providing communications for international non-profit organizations, All of these choices are correct]", 
+    "question": "Which of the following is a purpose of the Amateur Radio Service as stated in the FCC rules and regulations?"
+},
+{
+    "answer": "The FCC", 
+    "identifier": "T1A02", 
+    "options": "[FEMA, The ITU, Homeland Security]", 
+    "question": "Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?"
+},
+{
+    "answer": "Part 97", 
+    "identifier": "T1A03", 
+    "options": "[Part 73, Part 95, Part 90]", 
+    "question": "Which part of the FCC regulations contains the rules governing the Amateur Radio Service?"
+},
+{
+    "answer": "That which seriously degrades, obstructs, or repeatedly interrupts a radio communication service operating in accordance with the Radio Regulations", 
+    "identifier": "T1A04", 
+    "options": "[Radio transmissions that annoy users of a repeater, Unwanted radio transmissions that cause costly harm to radio station apparatus, Static from lightning storms]", 
+    "question": "Which of the following meets the FCC definition of harmful interference?"
+},
+{
+    "answer": "Enhancing international goodwill", 
+    "identifier": "T1A05", 
+    "options": "[Providing inexpensive communication for local emergency organizations, Training of operators in military radio operating procedures, All of these choices are correct]", 
+    "question": "Which of the following is a purpose of the Amateur Radio Service rules and regulations as defined by the FCC?"
+},
+{
+    "answer": "Radio Navigation Service", 
+    "identifier": "T1A06", 
+    "options": "[Citizens Radio Service, Broadcast Service, Land Mobile Radio Service]", 
+    "question": "Which of the following services are protected from interference by amateur signals under all circumstances?"
+},
+{
+    "answer": "A one-way transmission of measurements at a distance from the measuring instrument", 
+    "identifier": "T1A07", 
+    "options": "[An information bulletin issued by the FCC, A one-way transmission to initiate, modify or terminate functions of a device at a distance, An information bulletin from a VEC]", 
+    "question": "What is the FCC Part 97 definition of telemetry?"
+},
+{
+    "answer": "Frequency Coordinator", 
+    "identifier": "T1A08", 
+    "options": "[Frequency Spectrum Manager, FCC Regional Field Office, International Telecommunications Union]", 
+    "question": "Which of the following entities recommends transmit/receive channels and other parameters for auxiliary and repeater stations?"
+},
+{
+    "answer": "Amateur operators in a local or regional area whose stations are eligible to be auxiliary or repeater stations", 
+    "identifier": "T1A09", 
+    "options": "[The FCC Office of Spectrum Management and Coordination Policy, The local chapter of the Office of National Council of Independent Frequency Coordinators, FCC Regional Field Office]", 
+    "question": "Who selects a Frequency Coordinator?"
+},
+{
+    "answer": "A station in the Amateur Radio Service consisting of the apparatus necessary for carrying on radio communications", 
+    "identifier": "T1A10", 
+    "options": "[A building where Amateur Radio receivers, transmitters, and RF power amplifiers are installed, Any radio station operated by a non-professional, Any radio station for hobby use]", 
+    "question": "What is the FCC Part 97 definition of an amateur station?"
+},
+{
+    "answer": "At no time", 
+    "identifier": "T1A11", 
+    "options": "[Only if the station being interfered with is expressing extreme religious or political views, Only during a contest, At any time, amateurs are not protected from willful interference]", 
+    "question": "When is willful interference to other amateur radio stations permitted?"
+},
+{
+    "answer": "Allowing a person to conduct radio experiments and to communicate with other licensed hams around the world", 
+    "identifier": "T1A12", 
+    "options": "[Broadcasting music and videos to friends, Providing a way for amateur radio operators to earn additional income by using their stations to pass messages, Providing low-cost communications for start-up businesses]", 
+    "question": "Which of the following is a permissible use of the Amateur Radio Service?"
+},
+{
+    "answer": "A one-way transmission to initiate, modify or terminate functions of a device at a distance", 
+    "identifier": "T1A13", 
+    "options": "[An instruction bulletin issued by the FCC, A one-way radio transmission of measurements at a distance from the measuring instrument, An instruction from a VEC]", 
+    "question": "What is the FCC Part 97 definition of telecommand?"
+},
+{
+    "answer": "Stop operating or take steps to eliminate the harmful interference", 
+    "identifier": "T1A14", 
+    "options": "[Nothing, because this band is allocated exclusively to the amateur service, Establish contact with the radiolocation station and ask them to change frequency, Change to CW mode, because this would not likely cause interference]", 
+    "question": "What must you do if you are operating on the 23 cm band and learn that you are interfering with a radiolocation station outside the United States?"
+},
+{
+    "answer": "A United Nations agency for information and communication technology issues", 
+    "identifier": "T1B01", 
+    "options": "[An agency of the United States Department of Telecommunications Management, An independent frequency coordination agency, A department of the FCC]", 
+    "question": "What is the ITU?"
+},
+{
+    "answer": "Some U. S. Territories are located in ITU regions other than region 2", 
+    "identifier": "T1B02", 
+    "options": "[Territorial governments are allowed to select their own frequency allocations, Territorial frequency allocations must also include those of adjacent countries, Any territory that was in existence before the ratification of the Communications Act of 1934 is exempt from FCC frequency regulations]", 
+    "question": "Why are the frequency assignments for some U.S. Territories different from those in the 50 U.S. States?"
+},
+{
+    "answer": "52.525 MHz", 
+    "identifier": "T1B03", 
+    "options": "[49.00 MHz, 28.50 MHz, 222.15 MHz]", 
+    "question": "Which frequency is within the 6 meter band?"
+},
+{
+    "answer": "2 meter band", 
+    "identifier": "T1B04", 
+    "options": "[20 meter band, 14 meter band, 6 meter band]", 
+    "question": "Which amateur band are you using when your station is transmitting on 146.52 MHz?"
+},
+{
+    "answer": "443.350 MHz", 
+    "identifier": "T1B05", 
+    "options": "[53.350 MHz, 146.520 MHz, 222.520 MHz]", 
+    "question": "Which 70 cm frequency is authorized to a Technician Class license holder operating in ITU Region 2?"
+},
+{
+    "answer": "1296 MHz", 
+    "identifier": "T1B06", 
+    "options": "[2315 MHz, 3390 MHz, 146.52 MHz]", 
+    "question": "Which 23 cm frequency is authorized to a Technician Class licensee?"
+},
+{
+    "answer": "1.25 meter band", 
+    "identifier": "T1B07", 
+    "options": "[15 meter band, 10 meter band, 2 meter band]", 
+    "question": "What amateur band are you using if you are transmitting on 223.50 MHz?"
+},
+{
+    "answer": "U.S. amateurs may find non-amateur stations in the bands, and must avoid interfering with them", 
+    "identifier": "T1B08", 
+    "options": "[U.S. amateurs must give foreign amateur stations priority in those portions, International communications are not permitted on 70 cm, Digital transmissions are not permitted on 70 cm]", 
+    "question": "Which of the following is a result of the fact that the amateur service is secondary in some portions of the 70 cm band?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T1B09", 
+    "options": "[To allow for calibration error in the transmitter frequency display, So that modulation sidebands do not extend beyond the band edge, To allow for transmitter frequency drift]", 
+    "question": "Why should you not set your transmit frequency to be exactly at the edge of an amateur band or sub-band?"
+},
+{
+    "answer": "The 6 meter, 2 meter, and 1.25 meter bands", 
+    "identifier": "T1B10", 
+    "options": "[The 6 meter, 2 meter, and 70 cm bands, The 2 meter and 13 cm bands, The 2 meter and 70 cm bands]", 
+    "question": "Which of the bands above 30 MHz that are available to Technician Class operators have mode-restricted sub-bands?"
+},
+{
+    "answer": "CW only", 
+    "identifier": "T1B11", 
+    "options": "[CW and RTTY, SSB only, CW and SSB]", 
+    "question": "What emission modes are permitted in the mode-restricted sub-bands at 50.0 to 50.1 MHz and 144.0 to 144.1 MHz?"
+},
+{
+    "answer": "Amateur frequency assignments can vary among the three ITU regions", 
+    "identifier": "T1B12", 
+    "options": "[Amateur maritime mobile stations in international waters must conform to the frequency assignments of the country nearest to their vessel, Frequency assignments are determined by the captain of the vessel, Amateur frequency assignments are different in each of the 90 ITU zones]", 
+    "question": "Why are frequency assignments for U.S. stations operating maritime mobile not the same everywhere in the world?"
+},
+{
+    "answer": "Data", 
+    "identifier": "T1B13", 
+    "options": "[Spread spectrum, SSB voice, Fast-scan television]", 
+    "question": "Which emission may be used between 219 and 220 MHz?"
+},
+{
+    "answer": "Special event", 
+    "identifier": "T1C01", 
+    "options": "[Vanity, Sequential, In-memoriam]", 
+    "question": "Which type of call sign has a single letter in both its prefix and suffix?"
+},
+{
+    "answer": "W3ABC", 
+    "identifier": "T1C02", 
+    "options": "[KMA3505, KDKA, 11Q1176]", 
+    "question": "Which of the following is a valid US amateur radio station call sign?"
+},
+{
+    "answer": "Communications incidental to the purposes of the amateur service and remarks of a personal character", 
+    "identifier": "T1C03", 
+    "options": "[Communications incidental to conducting business or remarks of a personal nature, Only communications incidental to contest exchanges, all other communications are prohibited, Any communications that would be permitted by an international broadcast station]", 
+    "question": "What types of international communications are permitted by an FCC-licensed amateur station?"
+},
+{
+    "answer": "When the foreign country authorizes it", 
+    "identifier": "T1C04", 
+    "options": "[When there is a mutual agreement allowing third party communications, When authorization permits amateur communications in a foreign language, When you are communicating with non-licensed individuals in another country]", 
+    "question": "When are you allowed to operate your amateur station in a foreign country?"
+},
+{
+    "answer": "K1XXX", 
+    "identifier": "T1C05", 
+    "options": "[KA1X, W1XX, All of these choices are correct]", 
+    "question": "Which of the following is a vanity call sign which a technician class amateur operator might select if available?"
+},
+{
+    "answer": "From any vessel or craft located in international waters and documented or registered in the United States", 
+    "identifier": "T1C06", 
+    "options": "[From within any country that belongs to the International Telecommunications Union, From within any country that is a member of the United Nations, From anywhere within in ITU Regions 2 and 3]", 
+    "question": "From which of the following locations may an FCC-licensed amateur station transmit, in addition to places where the FCC regulates communications?"
+},
+{
+    "answer": "Revocation of the station license or suspension of the operator license", 
+    "identifier": "T1C07", 
+    "options": "[Fine or imprisonment, Require the licensee to be re-examined, A reduction of one rank in operator class]", 
+    "question": "What may result when correspondence from the FCC is returned as undeliverable because the grantee failed to provide the correct mailing address?"
+},
+{
+    "answer": "Ten years", 
+    "identifier": "T1C08", 
+    "options": "[Five years, Life, Twenty years]", 
+    "question": "What is the normal term for an FCC-issued primary station/operator amateur radio license grant?"
+},
+{
+    "answer": "Two years", 
+    "identifier": "T1C09", 
+    "options": "[Three years, Five years, Ten years]", 
+    "question": "What is the grace period following the expiration of an amateur license within which the license may be renewed?"
+},
+{
+    "answer": "As soon as your operator/station license grant appears in the FCC\ufffds license database", 
+    "identifier": "T1C10", 
+    "options": "[Immediately, 30 days after the test date, You must wait until you receive your license in the mail from the FCC]", 
+    "question": "How soon after passing the examination for your first amateur radio license may you operate a transmitter on an amateur service frequency?"
+},
+{
+    "answer": "No, transmitting is not allowed until the FCC license database shows that the license has been renewed", 
+    "identifier": "T1C11", 
+    "options": "[Yes, but only if you identify using the suffix GP, Yes, but only during authorized nets, Yes, for up to two years]", 
+    "question": "If your license has expired and is still within the allowable grace period, may you continue to operate a transmitter on amateur service frequencies?"
+},
+{
+    "answer": "Any licensed amateur", 
+    "identifier": "T1C12", 
+    "options": "[Only licensed amateurs with general or extra class licenses, Only licensed amateurs with an extra class license, Only an amateur licensee who has been licensed continuously for more than 10 years]", 
+    "question": "Who may select a desired call sign under the vanity call sign rules?"
+},
+{
+    "answer": "Technician, General, Amateur Extra", 
+    "identifier": "T1C13", 
+    "options": "[Novice, Technician, General, Advanced, Technician, Technician Plus, General, Advanced, Novice, Technician Plus, General, Advanced]", 
+    "question": "For which licenses classes are new licenses currently available from the FCC?"
+},
+{
+    "answer": "Only the person named as trustee on the club station license grant", 
+    "identifier": "T1C14", 
+    "options": "[Any Extra Class member of the club, Any member of the club, Any officer of the club]", 
+    "question": "Who may select a vanity call sign for a club station?"
+},
+{
+    "answer": "Any country whose administration has notified the ITU that it objects to such communications", 
+    "identifier": "T1D01", 
+    "options": "[Any country whose administration has notified the ARRL that it objects to such communications, Any country engaged in hostilities with another country, Any country in violation of the War Powers Act of 1934]", 
+    "question": "With which countries are FCC-licensed amateur stations prohibited from exchanging communications?"
+},
+{
+    "answer": "During an Armed Forces Day Communications Test", 
+    "identifier": "T1D02", 
+    "options": "[During a Memorial Day Celebration, During an Independence Day celebration, During a propagation test]", 
+    "question": "On which of the following occasions may an FCC-licensed amateur station exchange messages with a U.S. military station?"
+},
+{
+    "answer": "Only when transmitting control commands to space stations or radio control craft", 
+    "identifier": "T1D03", 
+    "options": "[Only during contests, Only when operating mobile, Only when frequencies above 1280 MHz are used]", 
+    "question": "When is the transmission of codes or ciphers that hide the meaning of a message allowed by an amateur station?"
+},
+{
+    "answer": "When incidental to an authorized retransmission of manned spacecraft communications", 
+    "identifier": "T1D04", 
+    "options": "[When the music produces no spurious emissions, When the purpose is to interfere with an illegal transmission, When the music is transmitted above 1280 MHz]", 
+    "question": "What is the only time an amateur station is authorized to transmit music?"
+},
+{
+    "answer": "When the equipment is normally used in an amateur station and such activity is not conducted on a regular basis", 
+    "identifier": "T1D05", 
+    "options": "[When the asking price is $100.00 or less, When the asking price is less than its appraised value, When the equipment is not the personal property of either the station licensee or the control operator or their close relatives]", 
+    "question": "When may amateur radio operators use their stations to notify other amateurs of the availability of equipment for sale or trade?"
+},
+{
+    "answer": "Any such language is prohibited", 
+    "identifier": "T1D06", 
+    "options": "[The FCC maintains a list of words that are not permitted to be used on amateur frequencies, The ITU maintains a list of words that are not permitted to be used on amateur frequencies, There is no such prohibition]", 
+    "question": "What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?"
+},
+{
+    "answer": "Auxiliary, repeater, or space stations", 
+    "identifier": "T1D07", 
+    "options": "[Auxiliary, beacon, or Earth stations, Beacon, repeater, or space stations, Earth, repeater, or space stations]", 
+    "question": "What types of amateur stations can automatically retransmit the signals of other amateur stations?"
+},
+{
+    "answer": "When the communication is incidental to classroom instruction at an educational institution", 
+    "identifier": "T1D08", 
+    "options": "[When engaging in communications on behalf of their employer, When re-broadcasting weather alerts during a RACES net, When notifying other amateur operators of the availability for sale or trade of apparatus]", 
+    "question": "In which of the following circumstances may the control operator of an amateur station receive compensation for operating the station?"
+},
+{
+    "answer": "Only where such communications directly relate to the immediate safety of human life or protection of property", 
+    "identifier": "T1D09", 
+    "options": "[Only when broadcasting communications to or from the space shuttle, Only where noncommercial programming is gathered and supplied exclusively to the National Public Radio network, Only when using amateur repeaters linked to the Internet]", 
+    "question": "Under which of the following circumstances are amateur stations authorized to transmit signals related to broadcasting, program production, or news gathering, assuming no other means is available?"
+},
+{
+    "answer": "Transmissions intended for reception by the general public", 
+    "identifier": "T1D10", 
+    "options": "[Two-way transmissions by amateur stations, Transmission of music, Transmission of messages directed only to amateur operators]", 
+    "question": "What is the meaning of the term \ufffdbroadcasting\ufffd in the FCC rules for the amateur services?"
+},
+{
+    "answer": "When transmitting signals to control a model craft", 
+    "identifier": "T1D11", 
+    "options": "[When the transmissions are of a brief nature to make station adjustments, When the transmissions are unmodulated, When the transmitted power level is below 1 watt]", 
+    "question": "When may an amateur station transmit without identifying?"
+},
+{
+    "answer": "When transmitting code practice, information bulletins, or transmissions necessary to provide emergency communications", 
+    "identifier": "T1D12", 
+    "options": "[Under no circumstances, At any time as long as no music is transmitted, At any time as long as the material being transmitted did not originate from a commercial broadcast station]", 
+    "question": "Under which of the following circumstances may an amateur radio station engage in broadcasting?"
+},
+{
+    "answer": "Never", 
+    "identifier": "T1E01", 
+    "options": "[When using automatic control, such as in the case of a repeater, When the station licensee is away and another licensed amateur is using the station, When the transmitting station is an auxiliary station]", 
+    "question": "When is an amateur station permitted to transmit without a control operator?"
+},
+{
+    "answer": "Only a person for whom an amateur operator/primary station license grant appears in the FCC database or who is authorized for alien reciprocal operation", 
+    "identifier": "T1E02", 
+    "options": "[Any U.S. citizen or registered alien, Any family member of the station licensee, Any person over the age of 18]", 
+    "question": "Who may a station licensee designate to be the control operator of an amateur station?"
+},
+{
+    "answer": "The station licensee", 
+    "identifier": "T1E03", 
+    "options": "[The FCC, The frequency coordinator, The ITU]", 
+    "question": "Who must designate the station control operator?"
+},
+{
+    "answer": "The class of operator license held by the control operator", 
+    "identifier": "T1E04", 
+    "options": "[The frequency authorized by the frequency coordinator, The class of operator license held by the station licensee, The highest class of operator license held by anyone on the premises]", 
+    "question": "What determines the transmitting privileges of an amateur station?"
+},
+{
+    "answer": "The location at which the control operator function is performed", 
+    "identifier": "T1E05", 
+    "options": "[The location of the station\ufffds transmitting antenna, The location of the station transmitting apparatus, The mailing address of the station licensee]", 
+    "question": "What is an amateur station control point?"
+},
+{
+    "answer": "Automatic", 
+    "identifier": "T1E06", 
+    "options": "[Remote, Local, Manual]", 
+    "question": "Under what type of control do APRS network digipeaters operate?"
+},
+{
+    "answer": "The control operator and the station licensee are equally responsible", 
+    "identifier": "T1E07", 
+    "options": "[All licensed amateurs who are present at the operation, Only the station licensee, Only the control operator]", 
+    "question": "When the control operator is not the station licensee, who is responsible for the proper operation of the station?"
+},
+{
+    "answer": "Repeater operation", 
+    "identifier": "T1E08", 
+    "options": "[Controlling the station over the Internet, Using a computer or other device to automatically send CW, Using a computer or other device to automatically identify]", 
+    "question": "Which of the following is an example of automatic control?"
+},
+{
+    "answer": "Local control", 
+    "identifier": "T1E09", 
+    "options": "[Radio control, Unattended control, Automatic control]", 
+    "question": "What type of control is being used when the control operator is at the control point?"
+},
+{
+    "answer": "Operating the station over the Internet", 
+    "identifier": "T1E10", 
+    "options": "[Repeater operation, Controlling a model aircraft, boat or car by amateur radio, All of these choices are correct]", 
+    "question": "Which of the following is an example of remote control as defined in Part 97?"
+},
+{
+    "answer": "The station licensee", 
+    "identifier": "T1E11", 
+    "options": "[The station custodian, The third party participant, The person operating the station equipment]", 
+    "question": "Who does the FCC presume to be the control operator of an amateur station, unless documentation to the contrary is in the station records?"
+},
+{
+    "answer": "At no time", 
+    "identifier": "T1E12", 
+    "options": "[When operating a special event station, As part of a multi-operator contest team, When using a club station whose trustee is an Extra Class operator licensee]", 
+    "question": "When, under normal circumstances, may a Technician Class licensee be the control operator of a station operating in an exclusive Extra Class operator segment of the amateur bands?"
+},
+{
+    "answer": "Tactical call sign", 
+    "identifier": "T1F01", 
+    "options": "[An official call sign reserved for RACES drills, SSID, Broadcast station]", 
+    "question": "What type of identification is being used when identifying a station on the air as Race Headquarters?"
+},
+{
+    "answer": "At the end of each communication and every ten minutes during a communication", 
+    "identifier": "T1F02", 
+    "options": "[Never, the tactical call is sufficient, Once during every hour, At the end of every transmission]", 
+    "question": "When using tactical identifiers such as \ufffdRace Headquarters\ufffd during a community service net operation, how often must your station transmit the station\ufffds FCC-assigned call sign?"
+},
+{
+    "answer": "At least every 10 minutes during and at the end of a communication", 
+    "identifier": "T1F03", 
+    "options": "[At the beginning of each contact, and every 10 minutes thereafter, At least once during each transmission, At least every 15 minutes during and at the end of a communication]", 
+    "question": "When is an amateur station required to transmit its assigned call sign?"
+},
+{
+    "answer": "The English language", 
+    "identifier": "T1F04", 
+    "options": "[Any language recognized by the United Nations, Any language recognized by the ITU, English, French, or Spanish]", 
+    "question": "Which of the following is an acceptable language to use for station identification when operating in a phone sub-band?"
+},
+{
+    "answer": "Send the call sign using CW or phone emission", 
+    "identifier": "T1F05", 
+    "options": "[Send the call sign followed by the indicator RPT, Send the call sign followed by the indicator R, Send the call sign using only phone emission]", 
+    "question": "What method of call sign identification is required for a station transmitting phone signals?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T1F06", 
+    "options": "[KL7CC stroke W3, KL7CC slant W3, KL7CC slash W3]", 
+    "question": "Which of the following formats of a self-assigned indicator is acceptable when identifying using a phone transmission?"
+},
+{
+    "answer": "The foreign station must be one with which the U.S. has a third party agreement", 
+    "identifier": "T1F07", 
+    "options": "[The person must be a U.S. citizen, The licensed control operator must do the station identification, All of these choices are correct]", 
+    "question": "Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station using a station under the control of a Technician Class control operator?"
+},
+{
+    "answer": "/KT, /AE or /AG when using new license privileges earned by CSCE while waiting for an upgrade to a previously issued license to appear in the FCC license database", 
+    "identifier": "T1F08", 
+    "options": "[/M when operating mobile, /R when operating a repeater, / followed the FCC Region number when operating out of the region in which the license was issued]", 
+    "question": "Which indicator is required by the FCC to be transmitted after a station call sign?"
+},
+{
+    "answer": "Repeater station", 
+    "identifier": "T1F09", 
+    "options": "[Beacon station, Earth station, Message forwarding station]", 
+    "question": "What type of amateur station simultaneously retransmits the signal of another amateur station on a different channel or channels?"
+},
+{
+    "answer": "The control operator of the originating station", 
+    "identifier": "T1F10", 
+    "options": "[The control operator of the repeater, The owner of the repeater, Both the originating station and the repeater owner]", 
+    "question": "Who is accountable should a repeater inadvertently retransmit communications that violate the FCC rules?"
+},
+{
+    "answer": "Any station whose government permits such communications", 
+    "identifier": "T1F11", 
+    "options": "[Those in ITU Region 2 only, Those in ITU Regions 2 and 3 only, Those in ITU Region 3 only]", 
+    "question": "To which foreign stations do the FCC rules authorize the transmission of non-emergency third party communications?"
+},
+{
+    "answer": "At least 4", 
+    "identifier": "T1F12", 
+    "options": "[At least 5, A trustee and 2 officers, At least 2]", 
+    "question": "How many persons are required to be members of a club for a club station license to be issued by the FCC?"
+},
+{
+    "answer": "At any time upon request by an FCC representative", 
+    "identifier": "T1F13", 
+    "options": "[At any time ten days after notification by the FCC of such an inspection, Only after failing to comply with an FCC notice of violation, Only when presented with a valid warrant by an FCC official or government agent]", 
+    "question": "When must the station licensee make the station and its records available for FCC inspection?"
+},
+{
+    "answer": "Plus or minus 600 kHz", 
+    "identifier": "T2A01", 
+    "options": "[Plus 500 kHz, Minus 500 kHz, Only plus 600 kHz]", 
+    "question": "What is the most common repeater frequency offset in the 2 meter band?"
+},
+{
+    "answer": "446.000 MHz", 
+    "identifier": "T2A02", 
+    "options": "[146.520 MHz, 145.000 MHz, 432.100 MHz]", 
+    "question": "What is the national calling frequency for FM simplex operations in the 70 cm band?"
+},
+{
+    "answer": "Plus or minus 5 MHz", 
+    "identifier": "T2A03", 
+    "options": "[Plus or minus 600 kHz, Minus 600 kHz, Plus 600 kHz]", 
+    "question": "What is a common repeater frequency offset in the 70 cm band?"
+},
+{
+    "answer": "Say the station's call sign then identify with your call sign", 
+    "identifier": "T2A04", 
+    "options": "[Say break, break then say the station's call sign, Say CQ three times then the other station's call sign, Wait for the station to call CQ then answer it]", 
+    "question": "What is an appropriate way to call another station on a repeater if you know the other station's call sign?"
+},
+{
+    "answer": "Transmit the other station\ufffds call sign followed by your call sign", 
+    "identifier": "T2A05", 
+    "options": "[Transmit CQ followed by the other station\ufffds call sign, Transmit your call sign followed by the other station\ufffds call sign, Transmit a signal report followed by your call sign]", 
+    "question": "How should you respond to a station calling CQ?"
+},
+{
+    "answer": "Properly identify the transmitting station", 
+    "identifier": "T2A06", 
+    "options": "[Make test transmissions only after 10:00 p.m. local time, Notify the FCC of the test transmission, State the purpose of the test during the test procedure]", 
+    "question": "What must an amateur operator do when making on-air transmissions to test equipment or antennas?"
+},
+{
+    "answer": "Station identification is required at least every ten minutes during the test and at the end of the test", 
+    "identifier": "T2A07", 
+    "options": "[Station identification is not required if the transmission is less than 15 seconds, Station identification is not required if the transmission is less than 1 watt, Station identification is only required once an hour when the transmissions are for test purposes only]", 
+    "question": "Which of the following is true when making a test transmission?"
+},
+{
+    "answer": "Calling any station", 
+    "identifier": "T2A08", 
+    "options": "[Call on the quarter hour, A new antenna is being tested (no station should answer), Only the called station should transmit]", 
+    "question": "What is the meaning of the procedural signal \ufffdCQ\ufffd?"
+},
+{
+    "answer": "Your call sign", 
+    "identifier": "T2A09", 
+    "options": "[The words \ufffdHello test\ufffd followed by your call sign, The repeater call sign followed by your call sign, The letters \ufffdQSY\ufffd followed by your call sign]", 
+    "question": "What brief statement is often transmitted in place of \ufffdCQ\ufffd to indicate that you are listening on a repeater?"
+},
+{
+    "answer": "A voluntary guideline for using different modes or activities within an amateur band", 
+    "identifier": "T2A10", 
+    "options": "[A mandated list of operating schedules, A list of scheduled net frequencies, A plan devised by a club to indicate frequency band usage]", 
+    "question": "What is a band plan, beyond the privileges established by the FCC?"
+},
+{
+    "answer": "While not exceeding the maximum power permitted on a given band, use the minimum power necessary to carry out the desired communication", 
+    "identifier": "T2A11", 
+    "options": "[There is no limit to power as long as there is no interference with other services, No more than 200 watts PEP may be used, Up to 1500 watts PEP may be used on any amateur frequency without restriction]", 
+    "question": "Which of the following is an FCC rule regarding power levels used in the amateur bands, under normal, non-distress circumstances?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T2A12", 
+    "options": "[Listen first to be sure that no one else is using the frequency, Ask if the frequency is in use, Make sure you are in your assigned band]", 
+    "question": "Which of the following is a guideline to use when choosing an operating frequency for calling CQ?"
+},
+{
+    "answer": "Simplex communication", 
+    "identifier": "T2B01", 
+    "options": "[Full duplex communication, Diplex communication, Multiplex communication]", 
+    "question": "What is the term used to describe an amateur station that is transmitting and receiving on the same frequency?"
+},
+{
+    "answer": "CTCSS", 
+    "identifier": "T2B02", 
+    "options": "[Carrier squelch, Tone burst, DTMF]", 
+    "question": "What is the term used to describe the use of a sub-audible tone transmitted with normal voice audio to open the squelch of a receiver?"
+},
+{
+    "answer": "Carrier squelch", 
+    "identifier": "T2B03", 
+    "options": "[Tone squelch, CTCSS, Modulated carrier]", 
+    "question": "Which of the following describes the muting of receiver audio controlled solely by the presence or absence of an RF signal?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T2B04", 
+    "options": "[The repeater receiver may require an audio tone burst for access, The repeater receiver may require a CTCSS tone for access, The repeater receiver may require a DCS tone sequence for access]", 
+    "question": "Which of the following common problems might cause you to be able to hear but not access a repeater even when transmitting with the proper offset?"
+},
+{
+    "answer": "The amplitude of the modulating signal", 
+    "identifier": "T2B05", 
+    "options": "[Both the frequency and amplitude of the modulating signal, The frequency of the modulating signal, The relative phase of the modulating signal and the carrier]", 
+    "question": "What determines the amount of deviation of an FM (as opposed to PM) signal?"
+},
+{
+    "answer": "Its signal occupies more bandwidth", 
+    "identifier": "T2B06", 
+    "options": "[Its output power increases, Its output power and bandwidth increases, Asymmetric modulation occurs]", 
+    "question": "What happens when the deviation of an FM transmitter is increased?"
+},
+{
+    "answer": "Microphone gain too high, causing over-deviation", 
+    "identifier": "T2B07", 
+    "options": "[SWR too high, Incorrect CTCSS Tone, All of these choices are correct]", 
+    "question": "What could cause your FM signal to interfere with stations on nearby frequencies?"
+},
+{
+    "answer": "Common courtesy should prevail, but no one has absolute right to an amateur frequency", 
+    "identifier": "T2B08", 
+    "options": "[Whoever has the strongest signal has priority on the frequency, Whoever has been on the frequency the longest has priority on the frequency, The station which has the weakest signal has priority on the frequency]", 
+    "question": "Which of the following applies when two stations transmitting on the same frequency interfere with each other?"
+},
+{
+    "answer": "Use of a phonetic alphabet", 
+    "identifier": "T2B09", 
+    "options": "[Send your call sign in CW as well as voice, Repeat your call sign three times, Increase your signal to full power when identifying]", 
+    "question": "Which of the following methods is encouraged by the FCC when identifying your station when using phone?"
+},
+{
+    "answer": "QRM", 
+    "identifier": "T2B10", 
+    "options": "[QRN, QTH, QSB]", 
+    "question": "Which Q signal indicates that you are receiving interference from other stations?"
+},
+{
+    "answer": "QSY", 
+    "identifier": "T2B11", 
+    "options": "[QRU, QSL, QRZ]", 
+    "question": "Which Q signal indicates that you are changing frequency?"
+},
+{
+    "answer": "When the stations can communicate directly without using a repeater", 
+    "identifier": "T2B12", 
+    "options": "[Only when you have an endorsement for simplex operation on your license, Only when third party traffic is not being passed, Only if you have simplex modulation capability]", 
+    "question": "Under what circumstances should you consider communicating via simplex rather than a repeater?"
+},
+{
+    "answer": "It is permitted in at least some portion of all the amateur bands above 50 MHz", 
+    "identifier": "T2B13", 
+    "options": "[It is permitted only by holders of a General Class or higher license, It is permitted only on repeaters, It is permitted only on when power is limited to no more than 100 watts]", 
+    "question": "Which of the following is true of the use of SSB phone in amateur bands above 50 MHz?"
+},
+{
+    "answer": "Never, FCC rules always apply", 
+    "identifier": "T2C01", 
+    "options": "[When operating a RACES station, When operating under special FEMA rules, When operating under special ARES rules]", 
+    "question": "When do the FCC rules NOT apply to the operation of an amateur station?"
+},
+{
+    "answer": "Connect the battery in parallel with a vehicle\ufffds battery and run the engine", 
+    "identifier": "T2C02", 
+    "options": "[Cool the battery in ice for several hours, Add acid to the battery, All of these choices are correct]", 
+    "question": "What is one way to recharge a 12-volt lead-acid station battery if the commercial power is out?"
+},
+{
+    "answer": "Such words and terms should be spelled out using a standard phonetic alphabet", 
+    "identifier": "T2C03", 
+    "options": "[The entire message should be repeated at least four times, Such messages must be limited to no more than 10 words, All of these choices are correct]", 
+    "question": "What should be done to insure that voice message traffic containing proper names and unusual words are copied correctly by the receiving station?"
+},
+{
+    "answer": "Both organizations may provide communications during emergencies", 
+    "identifier": "T2C04", 
+    "options": "[They represent the two largest ham clubs in the United States, Both organizations broadcast road and weather information, Neither may handle emergency traffic supporting public service agencies]", 
+    "question": "What do RACES and ARES have in common?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T2C05", 
+    "options": "[A radio service using amateur frequencies for emergency management or civil defense communications, A radio service using amateur stations for emergency management or civil defense communications, An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization]", 
+    "question": "Which of the following describes the Radio Amateur Civil Emergency Service (RACES)?"
+},
+{
+    "answer": "Begin your transmission by saying \"Priority\" or \"Emergency\" followed by your call sign", 
+    "identifier": "T2C06", 
+    "options": "[Repeat the words SOS three times followed by the call sign of the reporting station, Press the push-to-talk button three times, Play a pre-recorded emergency alert tone followed by your call sign]", 
+    "question": "Which of the following is an accepted practice to get the immediate attention of a net control station when reporting an emergency?"
+},
+{
+    "answer": "Remain on frequency without transmitting until asked to do so by the net control station", 
+    "identifier": "T2C07", 
+    "options": "[Provided that the frequency is quiet, announce the station call sign and location every 5 minutes, Move 5 kHz away from the net's frequency and use high power to ask other hams to keep clear of the net frequency, All of the choices are correct]", 
+    "question": "Which of the following is an accepted practice for an amateur operator who has checked into an emergency traffic net?"
+},
+{
+    "answer": "Passing messages exactly as received", 
+    "identifier": "T2C08", 
+    "options": "[Making decisions as to whether or not messages should be relayed or delivered, Communicating messages to the news media for broadcast outside the disaster area, All of these choices are correct]", 
+    "question": "Which of the following is a characteristic of good emergency traffic handling?"
+},
+{
+    "answer": "Yes, but only if necessary in situations involving the immediate safety of human life or protection of property", 
+    "identifier": "T2C09", 
+    "options": "[No, Yes, but only when part of a FEMA emergency plan, Yes, but only when part of a RACES emergency plan]", 
+    "question": "Are amateur station control operators ever permitted to operate outside the frequency privileges of their license class?"
+},
+{
+    "answer": "The information needed to track the message as it passes through the amateur radio traffic handling system", 
+    "identifier": "T2C10", 
+    "options": "[The first paragraph of the message text, The message number, The priority handling indicator for the message]", 
+    "question": "What is the preamble in a formal traffic message?"
+},
+{
+    "answer": "The check is a count of the number of words or word equivalents in the text portion of the message", 
+    "identifier": "T2C11", 
+    "options": "[The check is the value of a money order attached to the message, The check is a list of stations that have relayed the message, The check is a box on the message form that tells you the message was received]", 
+    "question": "What is meant by the term \ufffdcheck\ufffd in reference to a formal traffic message?"
+},
+{
+    "answer": "Licensed amateurs who have voluntarily registered their qualifications and equipment for communications duty in the public service", 
+    "identifier": "T2C12", 
+    "options": "[Licensed amateurs who are members of the military and who voluntarily agreed to provide message handling services in the case of an emergency, A training program that provides licensing courses for those interested in obtaining an amateur license to use during emergencies, A training program that certifies amateur operators for membership in the Radio Amateur Civil Emergency Service]", 
+    "question": "What is the Amateur Radio Emergency Service (ARES)?"
+},
+{
+    "answer": "Try moving a few feet or changing the direction of your antenna if possible, as reflections may be causing multi-path distortion", 
+    "identifier": "T3A01", 
+    "options": "[Change the batteries in your radio to a different type, Turn on the CTCSS tone, Ask the other operator to adjust his squelch control]", 
+    "question": "What should you do if another operator reports that your station\ufffds 2 meter signals were strong just a moment ago, but now they are weak or distorted?"
+},
+{
+    "answer": "The shorter wavelength allows them to more easily penetrate the structure of buildings", 
+    "identifier": "T3A02", 
+    "options": "[VHF signals lose power faster over distance, This is incorrect; VHF works better than UHF inside buildings, UHF antennas are more efficient than VHF antennas]", 
+    "question": "Why are UHF signals often more effective from inside buildings than VHF signals?"
+},
+{
+    "answer": "Horizontal", 
+    "identifier": "T3A03", 
+    "options": "[Right-hand circular, Left-hand circular, Vertical]", 
+    "question": "What antenna polarization is normally used for long-distance weak-signal CW and SSB contacts using the VHF and UHF bands?"
+},
+{
+    "answer": "Signals could be significantly weaker", 
+    "identifier": "T3A04", 
+    "options": "[The modulation sidebands might become inverted, Signals have an echo effect on voices, Nothing significant will happen]", 
+    "question": "What can happen if the antennas at opposite ends of a VHF or UHF line of sight radio link are not using the same polarization?"
+},
+{
+    "answer": "Try to find a path that reflects signals to the repeater", 
+    "identifier": "T3A05", 
+    "options": "[Change from vertical to horizontal polarization, Try the long path, Increase the antenna SWR]", 
+    "question": "When using a directional antenna, how might your station be able to access a distant repeater if buildings or obstructions are blocking the direct line of sight path?"
+},
+{
+    "answer": "Picket fencing", 
+    "identifier": "T3A06", 
+    "options": "[Flip-flopping, Frequency shifting, Pulsing]", 
+    "question": "What term is commonly used to describe the rapid fluttering sound sometimes heard from mobile stations that are moving while transmitting?"
+},
+{
+    "answer": "Electromagnetic", 
+    "identifier": "T3A07", 
+    "options": "[Electrostatic, Surface acoustic, Magnetostrictive]", 
+    "question": "What type of wave carries radio signals between transmitting and receiving stations?"
+},
+{
+    "answer": "Random combining of signals arriving via different paths", 
+    "identifier": "T3A08", 
+    "options": "[Frequency shift due to Faraday rotation, Interference from thunderstorms, Intermodulation distortion]", 
+    "question": "Which of the following is a likely cause of irregular fading of signals received by ionospheric reflection?"
+},
+{
+    "answer": "Either vertically or horizontally polarized antennas may be used for transmission or reception", 
+    "identifier": "T3A09", 
+    "options": "[Digital modes are unusable, FM voice is unusable, Both the transmitting and receiving antennas must be of the same polarization]", 
+    "question": "Which of the following results from the fact that skip signals refracted from the ionosphere are elliptically polarized?"
+},
+{
+    "answer": "Error rates are likely to increase", 
+    "identifier": "T3A10", 
+    "options": "[Transmission rates can be increased by a factor equal to the number of separate paths observed, Transmission rates must be decreased by a factor equal to the number of separate paths observed, No significant changes will occur if the signals are transmitting using FM]", 
+    "question": "What may occur if data signals propagate over multiple paths?"
+},
+{
+    "answer": "The ionosphere", 
+    "identifier": "T3A11", 
+    "options": "[The stratosphere, The troposphere, The magnetosphere]", 
+    "question": "Which part of the atmosphere enables the propagation of radio signals around the world?"
+},
+{
+    "answer": "Wavelength", 
+    "identifier": "T3B01", 
+    "options": "[Wave speed, Waveform, Wave spread]", 
+    "question": "What is the name for the distance a radio wave travels during one complete cycle?"
+},
+{
+    "answer": "The orientation of the electric field", 
+    "identifier": "T3B02", 
+    "options": "[The orientation of the magnetic field, The ratio of the energy in the magnetic field to the energy in the electric field, The ratio of the velocity to the wavelength]", 
+    "question": "What property of a radio wave is used to describe its polarization?"
+},
+{
+    "answer": "Electric and magnetic fields", 
+    "identifier": "T3B03", 
+    "options": "[AC and DC, Voltage and current, Ionizing and non-ionizing radiation]", 
+    "question": "What are the two components of a radio wave?"
+},
+{
+    "answer": "At the speed of light", 
+    "identifier": "T3B04", 
+    "options": "[At the speed of sound, Its speed is inversely proportional to its wavelength, Its speed increases as the frequency increases]", 
+    "question": "How fast does a radio wave travel through free space?"
+},
+{
+    "answer": "The wavelength gets shorter as the frequency increases", 
+    "identifier": "T3B05", 
+    "options": "[The wavelength gets longer as the frequency increases, There is no relationship between wavelength and frequency, The wavelength depends on the bandwidth of the signal]", 
+    "question": "How does the wavelength of a radio wave relate to its frequency?"
+},
+{
+    "answer": "Wavelength in meters equals 300 divided by frequency in megahertz", 
+    "identifier": "T3B06", 
+    "options": "[Wavelength in meters equals frequency in hertz multiplied by 300, Wavelength in meters equals frequency in hertz divided by 300, Wavelength in meters equals frequency in megahertz divided by 300]", 
+    "question": "What is the formula for converting frequency to approximate wavelength in meters?"
+},
+{
+    "answer": "The approximate wavelength", 
+    "identifier": "T3B07", 
+    "options": "[The magnetic intensity of waves, The time it takes for waves to travel one mile, The voltage standing wave ratio of waves]", 
+    "question": "What property of radio waves is often used to identify the different frequency bands?"
+},
+{
+    "answer": "30 to 300 MHz", 
+    "identifier": "T3B08", 
+    "options": "[30 to 300 kHz, 300 to 3000 kHz, 300 to 3000 MHz]", 
+    "question": "What are the frequency limits of the VHF spectrum?"
+},
+{
+    "answer": "300 to 3000 MHz", 
+    "identifier": "T3B09", 
+    "options": "[30 to 300 kHz, 30 to 300 MHz, 300 to 3000 kHz]", 
+    "question": "What are the frequency limits of the UHF spectrum?"
+},
+{
+    "answer": "3 to 30 MHz", 
+    "identifier": "T3B10", 
+    "options": "[300 to 3000 MHz, 30 to 300 MHz, 300 to 3000 kHz]", 
+    "question": "What frequency range is referred to as HF?"
+},
+{
+    "answer": "300,000,000 meters per second", 
+    "identifier": "T3B11", 
+    "options": "[3000 kilometers per second, 300,000 miles per hour, 186,000 miles per hour]", 
+    "question": "What is the approximate velocity of a radio wave as it travels through free space?"
+},
+{
+    "answer": "UHF signals are usually not reflected by the ionosphere", 
+    "identifier": "T3C01", 
+    "options": "[They are too weak to go very far, FCC regulations prohibit them from going more than 50 miles, They collide with trees and shrubbery and fade out]", 
+    "question": "Why are direct (not via a repeater) UHF signals rarely heard from stations outside your local coverage area?"
+},
+{
+    "answer": "Signals are being refracted from a sporadic E layer", 
+    "identifier": "T3C02", 
+    "options": "[Signals are being reflected from outer space, Signals are arriving by sub-surface ducting, Signals are being reflected by lightning storms in your area]", 
+    "question": "Which of the following might be happening when VHF signals are being received from long distances?"
+},
+{
+    "answer": "The signals exhibit rapid fluctuations of strength and often sound distorted", 
+    "identifier": "T3C03", 
+    "options": "[Signals from distances of 10,000 or more miles are common, These types of signals occur only during winter nighttime hours, These types of signals are generally strongest when your antenna is aimed west]", 
+    "question": "What is a characteristic of VHF signals received via auroral reflection?"
+},
+{
+    "answer": "Sporadic E", 
+    "identifier": "T3C04", 
+    "options": "[Backscatter, D layer absorption, Gray-line propagation]", 
+    "question": "Which of the following propagation types is most commonly associated with occasional strong over-the-horizon signals on the 10, 6, and 2 meter bands?"
+},
+{
+    "answer": "Knife-edge diffraction", 
+    "identifier": "T3C05", 
+    "options": "[Faraday rotation, Quantum tunneling, Doppler shift]", 
+    "question": "Which of the following effects might cause radio signals to be heard despite obstructions between the transmitting and receiving stations?"
+},
+{
+    "answer": "Tropospheric scatter", 
+    "identifier": "T3C06", 
+    "options": "[D layer refraction, F2 layer refraction, Faraday rotation]", 
+    "question": "What mode is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?"
+},
+{
+    "answer": "6 meters", 
+    "identifier": "T3C07", 
+    "options": "[10 meters, 2 meters, 70 cm]", 
+    "question": "What band is best suited for communicating via meteor scatter?"
+},
+{
+    "answer": "Temperature inversions in the atmosphere", 
+    "identifier": "T3C08", 
+    "options": "[Discharges of lightning during electrical storms, Sunspots and solar flares, Updrafts from hurricanes and tornadoes]", 
+    "question": "What causes tropospheric ducting?"
+},
+{
+    "answer": "From dawn to shortly after sunset during periods of high sunspot activity", 
+    "identifier": "T3C09", 
+    "options": "[From shortly after sunset to dawn during periods of high sunspot activity, From dawn to shortly after sunset during periods of low sunspot activity, From shortly after sunset to dawn during periods of low sunspot activity]", 
+    "question": "What is generally the best time for long-distance 10 meter band propagation via the F layer?"
+},
+{
+    "answer": "The distance over which two stations can communicate by direct path", 
+    "identifier": "T3C10", 
+    "options": "[The distance from the ground to a horizontally mounted antenna, The farthest point you can see when standing at the base of your antenna tower, The shortest distance between two points on the Earth's surface]", 
+    "question": "What is the radio horizon?"
+},
+{
+    "answer": "The Earth seems less curved to radio waves than to light", 
+    "identifier": "T3C11", 
+    "options": "[Radio signals move somewhat faster than the speed of light, Radio waves are not blocked by dust particles, Radio waves are blocked by dust particles]", 
+    "question": "Why do VHF and UHF radio signals usually travel somewhat farther than the visual line of sight distance between two stations?"
+},
+{
+    "answer": "Six or ten meters", 
+    "identifier": "T3C12", 
+    "options": "[23 centimeters, 70 centimeters or 1.25 meters, All of these choices are correct]", 
+    "question": "Which of the following bands may provide long distance communications during the peak of the sunspot cycle?"
+},
+{
+    "answer": "Some connectors include push-to-talk and voltages for powering the microphone", 
+    "identifier": "T4A01", 
+    "options": "[All transceivers use the same microphone connector type, All transceivers using the same connector type are wired identically, Un-keyed connectors allow any microphone to be connected]", 
+    "question": "Which of the following is true concerning the microphone connectors on amateur transceivers?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T4A02", 
+    "options": "[For logging contacts and contact information, For sending and/or receiving CW, For generating and decoding digital signals]", 
+    "question": "How might a computer be used as part of an amateur radio station?"
+},
+{
+    "answer": "It prevents voltage fluctuations from reaching sensitive circuits", 
+    "identifier": "T4A03", 
+    "options": "[A regulated power supply has FCC approval, A fuse or circuit breaker regulates the power, Power consumption is independent of load]", 
+    "question": "Which is a good reason to use a regulated power supply for communications equipment?"
+},
+{
+    "answer": "Between the transmitter and the antenna", 
+    "identifier": "T4A04", 
+    "options": "[Between the receiver and the transmitter, At the station power supply, At the microphone]", 
+    "question": "Where must a filter be installed to reduce harmonic emissions from your station?"
+},
+{
+    "answer": "In series with the feed line, between the transmitter and antenna", 
+    "identifier": "T4A05", 
+    "options": "[In series with the station's ground, In parallel with the push-to-talk line and the antenna, In series with the power supply cable, as close as possible to the radio]", 
+    "question": "Where should an in-line SWR meter be connected to monitor the standing wave ratio of the station antenna system?"
+},
+{
+    "answer": "Terminal node controller", 
+    "identifier": "T4A06", 
+    "options": "[Transmatch, Mixer, Antenna]", 
+    "question": "Which of the following would be connected between a transceiver and computer in a packet radio station?"
+},
+{
+    "answer": "The sound card provides audio to the microphone input and converts received audio to digital form", 
+    "identifier": "T4A07", 
+    "options": "[The sound card communicates between the computer CPU and the video display, The sound card records the audio frequency for video display, All of these choices are correct]", 
+    "question": "How is a computer\ufffds sound card used when conducting digital communications using a computer?"
+},
+{
+    "answer": "Flat strap", 
+    "identifier": "T4A08", 
+    "options": "[Round stranded wire, Round copper-clad steel wire, Twisted-pair cable]", 
+    "question": "Which type of conductor is best to use for RF grounding?"
+},
+{
+    "answer": "Ferrite choke", 
+    "identifier": "T4A09", 
+    "options": "[Band-pass filter, Low-pass filter, Preamplifier]", 
+    "question": "Which of the following could you use to cure distorted audio caused by RF current flowing on the shield of a microphone cable?"
+},
+{
+    "answer": "The alternator", 
+    "identifier": "T4A10", 
+    "options": "[The ignition system, The electric fuel pump, Anti-lock braking system controllers]", 
+    "question": "What is the source of a high-pitched whine that varies with engine speed in a mobile transceiver\ufffds receive audio?"
+},
+{
+    "answer": "At the battery or engine block ground strap", 
+    "identifier": "T4A11", 
+    "options": "[At the antenna mount, To any metal part of the vehicle, Through the transceiver\ufffds mounting bracket]", 
+    "question": "Where should the negative return connection of a mobile transceiver's power cable be connected?"
+},
+{
+    "answer": "Noise on the vehicle\ufffds electrical system is being transmitted along with your speech audio", 
+    "identifier": "T4A12", 
+    "options": "[Your microphone is picking up noise from an open window, You have the volume on your receiver set too high, You need to adjust your squelch control]", 
+    "question": "What could be happening if another operator reports a variable high-pitched whine on the audio from your mobile transmitter?"
+},
+{
+    "answer": "The output signal might become distorted", 
+    "identifier": "T4B01", 
+    "options": "[The output power might be too high, The frequency might vary, The SWR might increase]", 
+    "question": "What may happen if a transmitter is operated with the microphone gain set too high?"
+},
+{
+    "answer": "The keypad or VFO knob", 
+    "identifier": "T4B02", 
+    "options": "[The CTCSS or DTMF encoder, The Automatic Frequency Control, All of these choices are correct]", 
+    "question": "Which of the following can be used to enter the operating frequency on a modern transceiver?"
+},
+{
+    "answer": "To mute receiver output noise when no signal is being received", 
+    "identifier": "T4B03", 
+    "options": "[To set the highest level of volume desired, To set the transmitter power level, To adjust the automatic gain control]", 
+    "question": "What is the purpose of the squelch control on a transceiver?"
+},
+{
+    "answer": "Store the frequency in a memory channel", 
+    "identifier": "T4B04", 
+    "options": "[Enable the CTCSS tones, Disable the CTCSS tones, Use the scan mode to select the desired frequency]", 
+    "question": "What is a way to enable quick access to a favorite frequency on your transceiver?"
+},
+{
+    "answer": "Turn on the noise blanker", 
+    "identifier": "T4B05", 
+    "options": "[Change frequency slightly, Decrease the squelch setting, Use the RIT control]", 
+    "question": "Which of the following would reduce ignition interference to a receiver?"
+},
+{
+    "answer": "The receiver RIT or clarifier", 
+    "identifier": "T4B06", 
+    "options": "[The AGC or limiter, The bandwidth selection, The tone squelch]", 
+    "question": "Which of the following controls could be used if the voice pitch of a single-sideband signal seems too high or low?"
+},
+{
+    "answer": "Receiver Incremental Tuning", 
+    "identifier": "T4B07", 
+    "options": "[Receiver Input Tone, Rectifier Inverter Test, Remote Input Transmitter]", 
+    "question": "What does the term \ufffdRIT\ufffd mean?"
+},
+{
+    "answer": "Permits noise or interference reduction by selecting a bandwidth matching the mode", 
+    "identifier": "T4B08", 
+    "options": "[Permits monitoring several modes at once, Increases the number of frequencies that can be stored in memory, Increases the amount of offset between receive and transmit frequencies]", 
+    "question": "What is the advantage of having multiple receive bandwidth choices on a multimode transceiver?"
+},
+{
+    "answer": "2400 Hz", 
+    "identifier": "T4B09", 
+    "options": "[500 Hz, 1000 Hz, 5000 Hz]", 
+    "question": "Which of the following is an appropriate receive filter bandwidth to select in order to minimize noise and interference for SSB reception?"
+},
+{
+    "answer": "500 Hz", 
+    "identifier": "T4B10", 
+    "options": "[1000 Hz, 2400 Hz, 5000 Hz]", 
+    "question": "Which of the following is an appropriate receive filter bandwidth to select in order to minimize noise and interference for CW reception?"
+},
+{
+    "answer": "The difference between the repeater\ufffds transmit and receive frequencies", 
+    "identifier": "T4B11", 
+    "options": "[The distance between the repeater\ufffds transmit and receive antennas, The time delay before the repeater timer resets, Matching the antenna impedance to the feed line impedance]", 
+    "question": "Which of the following describes the common meaning of the term \"repeater offset\"?"
+},
+{
+    "answer": "To keep received audio relatively constant", 
+    "identifier": "T4B12", 
+    "options": "[To protect an antenna from lightning, To eliminate RF on the station cabling, An asymmetric goniometer control used for antenna matching]", 
+    "question": "What is the function of automatic gain control or AGC?"
+},
+{
+    "answer": "Amperes", 
+    "identifier": "T5A01", 
+    "options": "[Volts, Watts, Ohms]", 
+    "question": "Electrical current is measured in which of the following units?"
+},
+{
+    "answer": "Watts", 
+    "identifier": "T5A02", 
+    "options": "[Volts, Ohms, Amperes]", 
+    "question": "Electrical power is measured in which of the following units?"
+},
+{
+    "answer": "Current", 
+    "identifier": "T5A03", 
+    "options": "[Voltage, Resistance, Capacitance]", 
+    "question": "What is the name for the flow of electrons in an electric circuit?"
+},
+{
+    "answer": "Voltage", 
+    "identifier": "T5A05", 
+    "options": "[Ampere-hours, Capacitance, Inductance]", 
+    "question": "What is the electrical term for the electromotive force (EMF) that causes electron flow?"
+},
+{
+    "answer": "About 12 volts", 
+    "identifier": "T5A06", 
+    "options": "[About 30 volts, About 120 volts, About 240 volts]", 
+    "question": "How much voltage does a mobile transceiver usually require?"
+},
+{
+    "answer": "Copper", 
+    "identifier": "T5A07", 
+    "options": "[Glass, Wood, Rubber]", 
+    "question": "Which of the following is a good electrical conductor?"
+},
+{
+    "answer": "Glass", 
+    "identifier": "T5A08", 
+    "options": "[Copper, Aluminum, Mercury]", 
+    "question": "Which of the following is a good electrical insulator?"
+},
+{
+    "answer": "Alternating current", 
+    "identifier": "T5A09", 
+    "options": "[Direct current, Circular current, Vertical current]", 
+    "question": "What is the name for a current that reverses direction on a regular basis?"
+},
+{
+    "answer": "Power", 
+    "identifier": "T5A10", 
+    "options": "[Resistance, Current, Voltage]", 
+    "question": "Which term describes the rate at which electrical energy is used?"
+},
+{
+    "answer": "The volt", 
+    "identifier": "T5A11", 
+    "options": "[The watt, The ampere, The ohm]", 
+    "question": "What is the basic unit of electromotive force?"
+},
+{
+    "answer": "Frequency", 
+    "identifier": "T5A12", 
+    "options": "[Pulse rate, Speed, Wavelength]", 
+    "question": "What term describes the number of times per second that an alternating current reverses direction?"
+},
+{
+    "answer": "1,500 milliamperes", 
+    "identifier": "T5B01", 
+    "options": "[15 milliamperes, 150 milliamperes, 15,000 milliamperes]", 
+    "question": "How many milliamperes is 1.5 amperes?"
+},
+{
+    "answer": "1500 kHz", 
+    "identifier": "T5B02", 
+    "options": "[1500 MHz, 15 GHz, 150 kHz]", 
+    "question": "What is another way to specify a radio signal frequency of 1,500,000 hertz?"
+},
+{
+    "answer": "One thousand volts", 
+    "identifier": "T5B03", 
+    "options": "[One one-thousandth of a volt, One hundred volts, One million volts]", 
+    "question": "How many volts are equal to one kilovolt?"
+},
+{
+    "answer": "One one-millionth of a volt", 
+    "identifier": "T5B04", 
+    "options": "[One million volts, One thousand kilovolts, One one-thousandth of a volt]", 
+    "question": "How many volts are equal to one microvolt?"
+},
+{
+    "answer": "0.5 watts", 
+    "identifier": "T5B05", 
+    "options": "[0.02 watts, 5 watts, 50 watts]", 
+    "question": "Which of the following is equivalent to 500 milliwatts?"
+},
+{
+    "answer": "3 amperes", 
+    "identifier": "T5B06", 
+    "options": "[0.003 amperes, 0.3 amperes, 3,000,000 amperes]", 
+    "question": "If an ammeter calibrated in amperes is used to measure a 3000-milliampere current, what reading would it show?"
+},
+{
+    "answer": "3525 kHz", 
+    "identifier": "T5B07", 
+    "options": "[0.003525 kHz, 35.25 kHz, 3,525,000 kHz]", 
+    "question": "If a frequency readout calibrated in megahertz shows a reading of 3.525 MHz, what would it show if it were calibrated in kilohertz?"
+},
+{
+    "answer": "1 microfarad", 
+    "identifier": "T5B08", 
+    "options": "[0.001 microfarads, 1000 microfarads, 1,000,000,000 microfarads]", 
+    "question": "How many microfarads are 1,000,000 picofarads?"
+},
+{
+    "answer": "3 dB", 
+    "identifier": "T5B09", 
+    "options": "[2 dB, 5 dB, 10 dB]", 
+    "question": "What is the approximate amount of change, measured in decibels (dB), of a power increase from 5 watts to 10 watts?"
+},
+{
+    "answer": "-6 dB", 
+    "identifier": "T5B10", 
+    "options": "[-1 dB, -3 dB, -9 dB]", 
+    "question": "What is the approximate amount of change, measured in decibels (dB), of a power decrease from 12 watts to 3 watts?"
+},
+{
+    "answer": "10 dB", 
+    "identifier": "T5B11", 
+    "options": "[12 dB, 18 dB, 28 dB]", 
+    "question": "What is the approximate amount of change, measured in decibels (dB), of a power increase from 20 watts to 200 watts?"
+},
+{
+    "answer": "28.400 MHz", 
+    "identifier": "T5B12", 
+    "options": "[2.800 MHz, 284.00 MHz, 28.400 kHz]", 
+    "question": "Which of the following frequencies is equal to 28,400 kHz?"
+},
+{
+    "answer": "2.425 GHz", 
+    "identifier": "T5B13", 
+    "options": "[0.002425 GHZ, 24.25 GHz, 2425 GHz]", 
+    "question": "If a frequency readout shows a reading of 2425 MHz, what frequency is that in GHz?"
+},
+{
+    "answer": "Capacitance", 
+    "identifier": "T5C01", 
+    "options": "[Inductance, Resistance, Tolerance]", 
+    "question": "What is the ability to store energy in an electric field called?"
+},
+{
+    "answer": "The farad", 
+    "identifier": "T5C02", 
+    "options": "[The ohm, The volt, The henry]", 
+    "question": "What is the basic unit of capacitance?"
+},
+{
+    "answer": "Inductance", 
+    "identifier": "T5C03", 
+    "options": "[Admittance, Capacitance, Resistance]", 
+    "question": "What is the ability to store energy in a magnetic field called?"
+},
+{
+    "answer": "The henry", 
+    "identifier": "T5C04", 
+    "options": "[The coulomb, The farad, The ohm]", 
+    "question": "What is the basic unit of inductance?"
+},
+{
+    "answer": "Hertz", 
+    "identifier": "T5C05", 
+    "options": "[Henry, Farad, Tesla]", 
+    "question": "What is the unit of frequency?"
+},
+{
+    "answer": "Radio frequency signals of all types", 
+    "identifier": "T5C06", 
+    "options": "[The resonant frequency of a tuned circuit, The real frequency transmitted as opposed to the apparent frequency, Reflective force in antenna transmission lines]", 
+    "question": "What does the abbreviation \ufffdRF\ufffd refer to?"
+},
+{
+    "answer": "Radio waves", 
+    "identifier": "T5C07", 
+    "options": "[Gravity waves, Sound waves, Pressure waves]", 
+    "question": "What is a usual name for electromagnetic waves that travel through space?"
+},
+{
+    "answer": "Power (P) equals voltage (E) multiplied by current (I)", 
+    "identifier": "T5C08", 
+    "options": "[Power (P) equals voltage (E) divided by current (I), Power (P) equals voltage (E) minus current (I), Power (P) equals voltage (E) plus current (I)]", 
+    "question": "What is the formula used to calculate electrical power in a DC circuit?"
+},
+{
+    "answer": "138 watts", 
+    "identifier": "T5C09", 
+    "options": "[0.7 watts, 23.8 watts, 3.8 watts]", 
+    "question": "How much power is being used in a circuit when the applied voltage is 13.8 volts DC and the current is 10 amperes?"
+},
+{
+    "answer": "30 watts", 
+    "identifier": "T5C10", 
+    "options": "[4.8 watts, 14.5 watts, 0.208 watts]", 
+    "question": "How much power is being used in a circuit when the applied voltage is 12 volts DC and the current is 2.5 amperes?"
+},
+{
+    "answer": "10 amperes", 
+    "identifier": "T5C11", 
+    "options": "[0.1 amperes, 12 amperes, 132 amperes]", 
+    "question": "How many amperes are flowing in a circuit when the applied voltage is 12 volts DC and the load is 120 watts?"
+},
+{
+    "answer": "It is a measure of the opposition to AC current flow in a circuit", 
+    "identifier": "T5C12", 
+    "options": "[It is the inverse of resistance, It is a measure of the Q or Quality Factor of a component, It is a measure of the power handling capability of a component]", 
+    "question": "What is meant by the term impedance?"
+},
+{
+    "answer": "Ohms", 
+    "identifier": "T5C13", 
+    "options": "[Volts, Amperes, Coulombs]", 
+    "question": "What are the units of impedance?"
+},
+{
+    "answer": "Current (I) equals voltage (E) divided by resistance (R)", 
+    "identifier": "T5D01", 
+    "options": "[Current (I) equals voltage (E) multiplied by resistance (R), Current (I) equals voltage (E) added to resistance (R), Current (I) equals voltage (E) minus resistance (R)]", 
+    "question": "What formula is used to calculate current in a circuit?"
+},
+{
+    "answer": "Voltage (E) equals current (I) multiplied by resistance (R)", 
+    "identifier": "T5D02", 
+    "options": "[Voltage (E) equals current (I) divided by resistance (R), Voltage (E) equals current (I) added to resistance (R), Voltage (E) equals current (I) minus resistance (R)]", 
+    "question": "What formula is used to calculate voltage in a circuit?"
+},
+{
+    "answer": "Resistance (R) equals voltage (E) divided by current (I)", 
+    "identifier": "T5D03", 
+    "options": "[Resistance (R) equals voltage (E) multiplied by current (I), Resistance (R) equals voltage (E) added to current (I), Resistance (R) equals voltage (E) minus current (I)]", 
+    "question": "What formula is used to calculate resistance in a circuit?"
+},
+{
+    "answer": "30 ohms", 
+    "identifier": "T5D04", 
+    "options": "[3 ohms, 93 ohms, 270 ohms]", 
+    "question": "What is the resistance of a circuit in which a current of 3 amperes flows through a resistor connected to 90 volts?"
+},
+{
+    "answer": "8 ohms", 
+    "identifier": "T5D05", 
+    "options": "[18 ohms, 0.125 ohms, 13.5 ohms]", 
+    "question": "What is the resistance in a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?"
+},
+{
+    "answer": "3 ohms", 
+    "identifier": "T5D06", 
+    "options": "[16 ohms, 48 ohms, 8 Ohms]", 
+    "question": "What is the resistance of a circuit that draws 4 amperes from a 12-volt source?"
+},
+{
+    "answer": "1.5 amperes", 
+    "identifier": "T5D07", 
+    "options": "[9600 amperes, 200 amperes, 0.667 amperes]", 
+    "question": "What is the current flow in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?"
+},
+{
+    "answer": "2 amperes", 
+    "identifier": "T5D08", 
+    "options": "[20,000 amperes, 0.5 amperes, 100 amperes]", 
+    "question": "What is the current flowing through a 100-ohm resistor connected across 200 volts?"
+},
+{
+    "answer": "10 amperes", 
+    "identifier": "T5D09", 
+    "options": "[24,000 amperes, 0.1 amperes, 216 amperes]", 
+    "question": "What is the current flowing through a 24-ohm resistor connected across 240 volts?"
+},
+{
+    "answer": "1 volt", 
+    "identifier": "T5D10", 
+    "options": "[0.25 volts, 2.5 volts, 1.5 volts]", 
+    "question": "What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?"
+},
+{
+    "answer": "10 volts", 
+    "identifier": "T5D11", 
+    "options": "[1 volt, 11 volts, 9 volts]", 
+    "question": "What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?"
+},
+{
+    "answer": "20 volts", 
+    "identifier": "T5D12", 
+    "options": "[8 volts, 0.2 volts, 12 volts]", 
+    "question": "What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?"
+},
+{
+    "answer": "Resistor", 
+    "identifier": "T6A01", 
+    "options": "[Inductor, Voltmeter, Transformer]", 
+    "question": "What electrical component is used to oppose the flow of current in a DC circuit?"
+},
+{
+    "answer": "Potentiometer", 
+    "identifier": "T6A02", 
+    "options": "[Fixed resistor, Power resistor, Transformer]", 
+    "question": "What type of component is often used as an adjustable volume control?"
+},
+{
+    "answer": "Resistance", 
+    "identifier": "T6A03", 
+    "options": "[Inductance, Capacitance, Field strength]", 
+    "question": "What electrical parameter is controlled by a potentiometer?"
+},
+{
+    "answer": "Capacitor", 
+    "identifier": "T6A04", 
+    "options": "[Resistor, Inductor, Diode]", 
+    "question": "What electrical component stores energy in an electric field?"
+},
+{
+    "answer": "Capacitor", 
+    "identifier": "T6A05", 
+    "options": "[Resistor, Potentiometer, Oscillator]", 
+    "question": "What type of electrical component consists of two or more conductive surfaces separated by an insulator?"
+},
+{
+    "answer": "Inductor", 
+    "identifier": "T6A06", 
+    "options": "[Resistor, Capacitor, Diode]", 
+    "question": "What type of electrical component stores energy in a magnetic field?"
+},
+{
+    "answer": "Inductor", 
+    "identifier": "T6A07", 
+    "options": "[Switch, Capacitor, Diode]", 
+    "question": "What electrical component is usually composed of a coil of wire?"
+},
+{
+    "answer": "Switch", 
+    "identifier": "T6A08", 
+    "options": "[Magnetron, Thermistor, All of these choices are correct]", 
+    "question": "What electrical component is used to connect or disconnect electrical circuits?"
+},
+{
+    "answer": "Fuse", 
+    "identifier": "T6A09", 
+    "options": "[Capacitor, Inductor, All of these choices are correct]", 
+    "question": "What electrical component is used to protect other circuit components from current overloads?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T6A10", 
+    "options": "[Nickel-metal hydride, Lithium-ion, Lead-acid gel-cell]", 
+    "question": "Which of the following battery types is rechargeable?"
+},
+{
+    "answer": "Carbon-zinc", 
+    "identifier": "T6A11", 
+    "options": "[Nickel-cadmium, Lead-acid, Lithium-ion]", 
+    "question": "Which of the following battery types is not rechargeable?"
+},
+{
+    "answer": "Transistors", 
+    "identifier": "T6B01", 
+    "options": "[Capacitors, Inductors, Resistors]", 
+    "question": "What class of electronic components is capable of using a voltage or current signal to control current flow?"
+},
+{
+    "answer": "Diode", 
+    "identifier": "T6B02", 
+    "options": "[Resistor, Fuse, Driven Element]", 
+    "question": "What electronic component allows current to flow in only one direction?"
+},
+{
+    "answer": "Transistor", 
+    "identifier": "T6B03", 
+    "options": "[Oscillator, Potentiometer, Voltmeter]", 
+    "question": "Which of these components can be used as an electronic switch or amplifier?"
+},
+{
+    "answer": "Transistor", 
+    "identifier": "T6B04", 
+    "options": "[Alternator, Triode, Pentagrid converter]", 
+    "question": "Which of the following components can be made of three layers of semiconductor material?"
+},
+{
+    "answer": "Transistor", 
+    "identifier": "T6B05", 
+    "options": "[Variable resistor, Electrolytic capacitor, Multi-cell battery]", 
+    "question": "Which of the following electronic components can amplify signals?"
+},
+{
+    "answer": "With a stripe", 
+    "identifier": "T6B06", 
+    "options": "[With the word cathode, With the letter C, All of these choices are correct]", 
+    "question": "How is the cathode lead of a semiconductor diode usually identified?"
+},
+{
+    "answer": "Light Emitting Diode", 
+    "identifier": "T6B07", 
+    "options": "[Low Emission Diode, Liquid Emission Detector, Long Echo Delay]", 
+    "question": "What does the abbreviation LED stand for?"
+},
+{
+    "answer": "Field Effect Transistor", 
+    "identifier": "T6B08", 
+    "options": "[Fast Electron Transistor, Free Electron Transition, Field Emission Thickness]", 
+    "question": "What does the abbreviation FET stand for?"
+},
+{
+    "answer": "Anode and cathode", 
+    "identifier": "T6B09", 
+    "options": "[Plus and minus, Source and drain, Gate and base]", 
+    "question": "What are the names of the two electrodes of a diode?"
+},
+{
+    "answer": "Emitter, base, and collector", 
+    "identifier": "T6B10", 
+    "options": "[Source, gate, and drain, Cathode, grid, and plate, Cathode, drift cavity, and collector]", 
+    "question": "What are the three electrodes of a PNP or NPN transistor?"
+},
+{
+    "answer": "Source, gate, and drain", 
+    "identifier": "T6B11", 
+    "options": "[Emitter, base, and collector, Cathode, grid, and plate, Cathode, gate, and anode]", 
+    "question": "What at are the three electrodes of a field effect transistor?"
+},
+{
+    "answer": "Gain", 
+    "identifier": "T6B12", 
+    "options": "[Forward resistance, Forward voltage drop, On resistance]", 
+    "question": "What is the term that describes a transistor's ability to amplify a signal?"
+},
+{
+    "answer": "Schematic symbols", 
+    "identifier": "T6C01", 
+    "options": "[Electrical depictions, Grey sketch, Component callouts]", 
+    "question": "What is the name for standardized representations of components in an electrical wiring diagram?"
+},
+{
+    "answer": "Resistor", 
+    "identifier": "T6C02", 
+    "options": "[Transistor, Battery, Connector]", 
+    "question": "What is component 1 in figure T1?"
+},
+{
+    "answer": "Transistor", 
+    "identifier": "T6C03", 
+    "options": "[Resistor, Indicator lamp, Connector]", 
+    "question": "What is component 2 in figure T1?"
+},
+{
+    "answer": "Lamp", 
+    "identifier": "T6C04", 
+    "options": "[Resistor, Transistor, Ground symbol]", 
+    "question": "What is component 3 in figure T1?"
+},
+{
+    "answer": "Battery", 
+    "identifier": "T6C05", 
+    "options": "[Resistor, Transistor, Ground symbol]", 
+    "question": "What is component 4 in figure T1?"
+},
+{
+    "answer": "Capacitor", 
+    "identifier": "T6C06", 
+    "options": "[Resistor, Regulator IC, Transistor]", 
+    "question": "What is component 6 in figure T2?"
+},
+{
+    "answer": "Light emitting diode", 
+    "identifier": "T6C07", 
+    "options": "[Resistor, Inductor, Regulator IC]", 
+    "question": "What is component 8 in figure T2?"
+},
+{
+    "answer": "Variable resistor", 
+    "identifier": "T6C08", 
+    "options": "[Variable capacitor, Variable inductor, Variable transformer]", 
+    "question": "What is component 9 in figure T2?"
+},
+{
+    "answer": "Transformer", 
+    "identifier": "T6C09", 
+    "options": "[Variable inductor, Double-pole switch, Potentiometer]", 
+    "question": "What is component 4 in figure T2?"
+},
+{
+    "answer": "Variable inductor", 
+    "identifier": "T6C10", 
+    "options": "[Connector, Meter, Variable capacitor]", 
+    "question": "What is component 3 in figure T3?"
+},
+{
+    "answer": "Antenna", 
+    "identifier": "T6C11", 
+    "options": "[Transmitter, Dummy load, Ground]", 
+    "question": "What is component 4 in figure T3?"
+},
+{
+    "answer": "Electrical components", 
+    "identifier": "T6C12", 
+    "options": "[Logic states, Digital codes, Traffic nodes]", 
+    "question": "What do the symbols on an electrical circuit schematic diagram represent?"
+},
+{
+    "answer": "The way components are interconnected", 
+    "identifier": "T6C13", 
+    "options": "[Wire lengths, Physical appearance of components, All of these choices are correct]", 
+    "question": "Which of the following is accurately represented in electrical circuit schematic diagrams?"
+},
+{
+    "answer": "Rectifier", 
+    "identifier": "T6D01", 
+    "options": "[Transformer, Amplifier, Reflector]", 
+    "question": "Which of the following devices or circuits changes an alternating current into a varying direct current signal?"
+},
+{
+    "answer": "A switch controlled by an electromagnet", 
+    "identifier": "T6D02", 
+    "options": "[A current controlled amplifier, An optical sensor, A pass transistor]", 
+    "question": "What best describes a relay?"
+},
+{
+    "answer": "Single-pole single-throw", 
+    "identifier": "T6D03", 
+    "options": "[Single-pole double-throw, Double-pole single-throw, Double-pole double-throw]", 
+    "question": "What type of switch is represented by component 3 in figure T2?"
+},
+{
+    "answer": "Meter", 
+    "identifier": "T6D04", 
+    "options": "[Potentiometer, Transistor, Relay]", 
+    "question": "Which of the following can be used to display signal strength on a numeric scale?"
+},
+{
+    "answer": "Regulator", 
+    "identifier": "T6D05", 
+    "options": "[Oscillator, Filter, Phase inverter]", 
+    "question": "What type of circuit controls the amount of voltage from a power supply?"
+},
+{
+    "answer": "Transformer", 
+    "identifier": "T6D06", 
+    "options": "[Variable capacitor, Transistor, Diode]", 
+    "question": "What component is commonly used to change 120V AC house current to a lower AC voltage for other uses?"
+},
+{
+    "answer": "LED", 
+    "identifier": "T6D07", 
+    "options": "[FET, Zener diode, Bipolar transistor]", 
+    "question": "Which of the following is commonly used as a visual indicator?"
+},
+{
+    "answer": "Capacitor", 
+    "identifier": "T6D08", 
+    "options": "[Resistor, Zener diode, Potentiometer]", 
+    "question": "Which of the following is used together with an inductor to make a tuned circuit?"
+},
+{
+    "answer": "Integrated circuit", 
+    "identifier": "T6D09", 
+    "options": "[Transducer, Multi-pole relay, Transformer]", 
+    "question": "What is the name of a device that combines several semiconductors and other components into one package?"
+},
+{
+    "answer": "Control the flow of current", 
+    "identifier": "T6D10", 
+    "options": "[Give off light when current flows through it, Supply electrical energy, Convert electrical energy into radio waves]", 
+    "question": "What is the function of component 2 in Figure T1?"
+},
+{
+    "answer": "An inductor and a capacitor connected in series or parallel to form a filter", 
+    "identifier": "T6D11", 
+    "options": "[A type of voltage regulator, A resistor circuit used for reducing standing wave ratio, A circuit designed to provide high fidelity audio]", 
+    "question": "What is a simple resonant or tuned circuit?"
+},
+{
+    "answer": "To prevent coupling of unwanted signals to or from the wire", 
+    "identifier": "T6D12", 
+    "options": "[To decrease the resistance of DC power connections, To increase the current carrying capability of the wire, To couple the wire to other signals]", 
+    "question": "Which of the following is a common reason to use shielded wire?"
+},
+{
+    "answer": "Sensitivity", 
+    "identifier": "T7A01", 
+    "options": "[Linearity, Selectivity, Total Harmonic Distortion]", 
+    "question": "Which term describes the ability of a receiver to detect the presence of a signal?"
+},
+{
+    "answer": "A unit combining the functions of a transmitter and a receiver", 
+    "identifier": "T7A02", 
+    "options": "[A type of antenna switch, A component in a repeater which filters out unwanted interference, A type of antenna matching network]", 
+    "question": "What is a transceiver?"
+},
+{
+    "answer": "Mixer", 
+    "identifier": "T7A03", 
+    "options": "[Phase splitter, Inverter, Amplifier]", 
+    "question": "Which of the following is used to convert a radio signal from one frequency to another?"
+},
+{
+    "answer": "Selectivity", 
+    "identifier": "T7A04", 
+    "options": "[Discrimination ratio, Sensitivity, Harmonic Distortion]", 
+    "question": "Which term describes the ability of a receiver to discriminate between multiple signals?"
+},
+{
+    "answer": "Oscillator", 
+    "identifier": "T7A05", 
+    "options": "[Reactance modulator, Product detector, Low-pass filter]", 
+    "question": "What is the name of a circuit that generates a signal of a desired frequency?"
+},
+{
+    "answer": "Transverter", 
+    "identifier": "T7A06", 
+    "options": "[High-pass filter, Low-pass filter, Phase converter]", 
+    "question": "What device takes the output of a low-powered 28 MHz SSB exciter and produces a 222 MHz output signal?"
+},
+{
+    "answer": "The push to talk function which switches between receive and transmit", 
+    "identifier": "T7A07", 
+    "options": "[Pre-transmission tuning to reduce transmitter harmonic emission, Precise tone transmissions used to limit repeater access to only certain signals, A primary transformer tuner use to match antennas]", 
+    "question": "What is meant by term \ufffdPTT\ufffd?"
+},
+{
+    "answer": "Modulation", 
+    "identifier": "T7A08", 
+    "options": "[ Impedance matching, Oscillation, Low-pass filtering]", 
+    "question": "Which of the following describes combining speech with an RF carrier signal?"
+},
+{
+    "answer": "A multi-mode VHF transceiver", 
+    "identifier": "T7A09", 
+    "options": "[A quarter-wave vertical antenna, An omni-directional antenna, A mobile VHF FM transceiver]", 
+    "question": "Which of the following devices is most useful for VHF weak-signal communication?"
+},
+{
+    "answer": "An RF power amplifier", 
+    "identifier": "T7A10", 
+    "options": "[A voltage divider, An impedance network, All of these choices are correct]", 
+    "question": "What device increases the low-power output from a handheld transceiver?"
+},
+{
+    "answer": "Between the antenna and receiver", 
+    "identifier": "T7A11", 
+    "options": "[At the output of the transmitter's power amplifier, Between a transmitter and antenna tuner, At the receiver's audio output]", 
+    "question": "Where is an RF preamplifier installed?"
+},
+{
+    "answer": "Talk farther away from the microphone", 
+    "identifier": "T7B01", 
+    "options": "[Talk louder into the microphone, Let the transceiver cool off, Change to a higher power level]", 
+    "question": "What can you do if you are told your FM handheld or mobile transceiver is over-deviating?"
+},
+{
+    "answer": "The receiver is unable to reject strong signals outside the AM or FM band", 
+    "identifier": "T7B02", 
+    "options": "[The microphone gain of the transmitter is turned up too high, The audio amplifier of the transmitter is overloaded, The deviation of an FM transmitter is set too low]", 
+    "question": "What would cause a broadcast AM or FM radio to receive an amateur radio transmission unintentionally?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T7B03", 
+    "options": "[Fundamental overload, Harmonics, Spurious emissions]", 
+    "question": "Which of the following may be a cause of radio frequency interference?"
+},
+{
+    "answer": "Put a RF filter on the telephone", 
+    "identifier": "T7B04", 
+    "options": "[Put a filter on the amateur transmitter, Reduce the microphone gain, Reduce the SWR on the transmitter transmission line]", 
+    "question": "Which of the following is a way to reduce or eliminate interference by an amateur transmitter to a nearby telephone?"
+},
+{
+    "answer": "Block the amateur signal with a filter at the antenna input of the affected receiver", 
+    "identifier": "T7B05", 
+    "options": "[Block the interfering signal with a filter on the amateur transmitter, Switch the transmitter from FM to SSB, Switch the transmitter to a narrow-band mode]", 
+    "question": "How can overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?"
+},
+{
+    "answer": "Make sure that your station is functioning properly and that it does not cause interference to your own radio or television when it is tuned to the same channel", 
+    "identifier": "T7B06", 
+    "options": "[Immediately turn off your transmitter and contact the nearest FCC office for assistance, Tell them that your license gives you the right to transmit and nothing can be done to reduce the interference, Install a harmonic doubler on the output of your transmitter and tune it until the interference is eliminated]", 
+    "question": "Which of the following actions should you take if a neighbor tells you that your station\ufffds transmissions are interfering with their radio or TV reception?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T7B07", 
+    "options": "[Snap-on ferrite chokes, Low-pass and high-pass filters, Band-reject and band-pass filters]", 
+    "question": "Which of the following may be useful in correcting a radio frequency interference problem?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T7B08", 
+    "options": "[Work with your neighbor to identify the offending device, Politely inform your neighbor about the rules that prohibit the use of devices which cause interference, Check your station and make sure it meets the standards of good amateur practice]", 
+    "question": "What should you do if something in a neighbor\ufffds home is causing harmful interference to your amateur station?"
+},
+{
+    "answer": "An unlicensed device that may emit low powered radio signals on frequencies used by a licensed service", 
+    "identifier": "T7B09", 
+    "options": "[A type of amateur radio that can legally be used in the citizen\ufffds band, A device for long distance communications using special codes sanctioned by the International Amateur Radio Union, A type of test set used to determine whether a transmitter is in compliance with FCC regulation 91.15]", 
+    "question": "What is a Part 15 device?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T7B10", 
+    "options": "[Your transmitter may be slightly off frequency, Your batteries may be running low, You could be in a bad location]", 
+    "question": "What might be the problem if you receive a report that your audio signal through the repeater is distorted or unintelligible?"
+},
+{
+    "answer": "Reports of garbled, distorted, or unintelligible transmissions", 
+    "identifier": "T7B11", 
+    "options": "[Excessive SWR at the antenna connection, The transmitter will not stay on the desired frequency, Frequent blowing of power supply fuses]", 
+    "question": "What is a symptom of RF feedback in a transmitter or transceiver?"
+},
+{
+    "answer": "Be sure all TV coaxial connectors are installed properly", 
+    "identifier": "T7B12", 
+    "options": "[Add a low pass filter to the TV antenna input, Add a high pass filter to the TV antenna input, Add a preamplifier to the TV antenna input]", 
+    "question": "What might be the first step to resolve cable TV interference from your ham radio transmission?"
+},
+{
+    "answer": "To prevent the radiation of signals when making tests", 
+    "identifier": "T7C01", 
+    "options": "[To prevent over-modulation of your transmitter, To improve the radiation from your antenna, To improve the signal to noise ratio of your receiver]", 
+    "question": "What is the primary purpose of a dummy load?"
+},
+{
+    "answer": "An antenna analyzer", 
+    "identifier": "T7C02", 
+    "options": "[A VTVM, A Q meter, A frequency counter]", 
+    "question": "Which of the following instruments can be used to determine if an antenna is resonant at the desired operating frequency?"
+},
+{
+    "answer": "A measure of how well a load is matched to a transmission line", 
+    "identifier": "T7C03", 
+    "options": "[The ratio of high to low impedance in a feed line, The transmitter efficiency ratio, An indication of the quality of your station\ufffds ground connection]", 
+    "question": "What, in general terms, is standing wave ratio (SWR)?"
+},
+{
+    "answer": "1 to 1", 
+    "identifier": "T7C04", 
+    "options": "[2 to 1, 1 to 3, 10 to 1]", 
+    "question": "What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?"
+},
+{
+    "answer": "2 to 1", 
+    "identifier": "T7C05", 
+    "options": "[1 to 2, 6 to 1, 10 to 1]", 
+    "question": "What is the approximate SWR value above which the protection circuits in most solid-state transmitters begin to reduce transmitter power?"
+},
+{
+    "answer": "Impedance mismatch", 
+    "identifier": "T7C06", 
+    "options": "[Loss of -4dB, Good impedance match, Gain of +4dB]", 
+    "question": "What does an SWR reading of 4:1 indicate?"
+},
+{
+    "answer": "It is converted into heat", 
+    "identifier": "T7C07", 
+    "options": "[It increases the SWR, It comes back into your transmitter and could cause damage, It can cause distortion of your signal]", 
+    "question": "What happens to power lost in a feed line?"
+},
+{
+    "answer": "Directional wattmeter", 
+    "identifier": "T7C08", 
+    "options": "[Voltmeter, Ohmmeter, Iambic pentameter]", 
+    "question": "What instrument other than an SWR meter could you use to determine if a feed line and antenna are properly matched?"
+},
+{
+    "answer": "Moisture contamination", 
+    "identifier": "T7C09", 
+    "options": "[Gamma rays, The velocity factor exceeds 1.0, Overloading]", 
+    "question": "Which of the following is the most common cause for failure of coaxial cables?"
+},
+{
+    "answer": "Ultraviolet light can damage the jacket and allow water to enter the cable", 
+    "identifier": "T7C10", 
+    "options": "[Ultraviolet resistant jackets prevent harmonic radiation, Ultraviolet light can increase losses in the cable\ufffds jacket, Ultraviolet and RF signals can mix together, causing interference]", 
+    "question": "Why should the outer jacket of coaxial cable be resistant to ultraviolet light?"
+},
+{
+    "answer": "It requires special techniques to prevent water absorption", 
+    "identifier": "T7C11", 
+    "options": "[It has more loss per foot, It cannot be used for VHF or UHF antennas, It cannot be used at below freezing temperatures]", 
+    "question": "What is a disadvantage of air core coaxial cable when compared to foam or solid dielectric types?"
+},
+{
+    "answer": "Carrying RF signals between a radio and antenna", 
+    "identifier": "T7C12", 
+    "options": "[Carrying dc power from a vehicle battery to a mobile radio, Securing masts, tubing, and other cylindrical objects on towers, Connecting data signals from a TNC to a computer]", 
+    "question": "Which of the following is a common use of coaxial cable?"
+},
+{
+    "answer": "A non-inductive resistor and a heat sink", 
+    "identifier": "T7C13", 
+    "options": "[A high-gain amplifier and a TR switch, A low voltage power supply and a DC relay, A 50 ohm reactance used to terminate a transmission line]", 
+    "question": "What does a dummy load consist of?"
+},
+{
+    "answer": "A voltmeter", 
+    "identifier": "T7D01", 
+    "options": "[An ammeter, A wavemeter, An ohmmeter]", 
+    "question": "Which instrument would you use to measure electric potential or electromotive force?"
+},
+{
+    "answer": "In parallel with the circuit", 
+    "identifier": "T7D02", 
+    "options": "[In series with the circuit, In quadrature with the circuit, In phase with the circuit]", 
+    "question": "What is the correct way to connect a voltmeter to a circuit?"
+},
+{
+    "answer": "In series with the circuit", 
+    "identifier": "T7D03", 
+    "options": "[In parallel with the circuit, In quadrature with the circuit, In phase with the circuit]", 
+    "question": "How is an ammeter usually connected to a circuit?"
+},
+{
+    "answer": "An ammeter", 
+    "identifier": "T7D04", 
+    "options": "[An ohmmeter, A wavemeter, A voltmeter]", 
+    "question": "Which instrument is used to measure electric current?"
+},
+{
+    "answer": "An ohmmeter", 
+    "identifier": "T7D05", 
+    "options": "[An oscilloscope, A spectrum analyzer, A noise bridge]", 
+    "question": "What instrument is used to measure resistance?"
+},
+{
+    "answer": "Attempting to measure voltage when using the resistance setting", 
+    "identifier": "T7D06", 
+    "options": "[Measuring a voltage too small for the chosen scale, Leaving the meter in the milliamps position overnight, Not allowing it to warm up properly]", 
+    "question": "Which of the following might damage a multimeter?"
+},
+{
+    "answer": "Voltage and resistance", 
+    "identifier": "T7D07", 
+    "options": "[SWR and RF power, Signal strength and noise, Impedance and reactance]", 
+    "question": "Which of the following measurements are commonly made using a multimeter?"
+},
+{
+    "answer": "Rosin-core solder", 
+    "identifier": "T7D08", 
+    "options": "[Acid-core solder, Silver solder, Aluminum solder]", 
+    "question": "Which of the following types of solder is best for radio and electronic use?"
+},
+{
+    "answer": "A grainy or dull surface", 
+    "identifier": "T7D09", 
+    "options": "[Dark black spots, A bright or shiny surface, A greenish tint]", 
+    "question": "What is the characteristic appearance of a cold solder joint?"
+},
+{
+    "answer": "The circuit contains a large capacitor", 
+    "identifier": "T7D10", 
+    "options": "[The ohmmeter is defective, The circuit contains a large inductor, The circuit is a relaxation oscillator]", 
+    "question": "What is probably happening when an ohmmeter, connected across an unpowered circuit, initially indicates a low resistance and then shows increasing resistance with time?"
+},
+{
+    "answer": "Ensure that the circuit is not powered", 
+    "identifier": "T7D11", 
+    "options": "[Ensure that the applied voltages are correct, Ensure that the circuit is grounded, Ensure that the circuit is operating at the correct frequency]", 
+    "question": "Which of the following precautions should be taken when measuring circuit resistance with an ohmmeter?"
+},
+{
+    "answer": "Ensure that the voltmeter and leads are rated for use at the voltages to be measured", 
+    "identifier": "T7D12", 
+    "options": "[Ensure that the voltmeter has very low impedance, Ensure that the circuit is grounded through the voltmeter, Ensure that the voltmeter is set to the correct frequency]", 
+    "question": "Which of the following precautions should be taken when measuring high voltages with a voltmeter?"
+},
+{
+    "answer": "Single sideband", 
+    "identifier": "T8A01", 
+    "options": "[Spread-spectrum, Packet radio, Phase shift keying]", 
+    "question": "Which of the following is a form of amplitude modulation?"
+},
+{
+    "answer": "FM", 
+    "identifier": "T8A02", 
+    "options": "[SSB, AM, Spread Spectrum]", 
+    "question": "What type of modulation is most commonly used for VHF packet radio transmissions?"
+},
+{
+    "answer": "SSB", 
+    "identifier": "T8A03", 
+    "options": "[FM, DRM, PM]", 
+    "question": "Which type of voice mode is most often used for long-distance (weak signal) contacts on the VHF and UHF bands?"
+},
+{
+    "answer": "FM", 
+    "identifier": "T8A04", 
+    "options": "[AM, SSB, PSK]", 
+    "question": "Which type of modulation is most commonly used for VHF and UHF voice repeaters?"
+},
+{
+    "answer": "CW", 
+    "identifier": "T8A05", 
+    "options": "[FM voice, SSB voice, Slow-scan TV]", 
+    "question": "Which of the following types of emission has the narrowest bandwidth?"
+},
+{
+    "answer": "Upper sideband", 
+    "identifier": "T8A06", 
+    "options": "[Lower sideband, Suppressed sideband, Inverted sideband]", 
+    "question": "Which sideband is normally used for 10 meter HF, VHF and UHF single-sideband communications?"
+},
+{
+    "answer": "SSB signals have narrower bandwidth", 
+    "identifier": "T8A07", 
+    "options": "[SSB signals are easier to tune, SSB signals are less susceptible to interference, All of these choices are correct]", 
+    "question": "What is the primary advantage of single sideband over FM for voice transmissions?"
+},
+{
+    "answer": "3 kHz", 
+    "identifier": "T8A08", 
+    "options": "[1 kHz, 6 kHz, 15 kHz]", 
+    "question": "What is the approximate bandwidth of a single sideband voice signal?"
+},
+{
+    "answer": "Between 10 and 15 kHz", 
+    "identifier": "T8A09", 
+    "options": "[Less than 500 Hz, About 150 kHz, Between 50 and 125 kHz]", 
+    "question": "What is the approximate bandwidth of a VHF repeater FM phone signal?"
+},
+{
+    "answer": "About 6 MHz", 
+    "identifier": "T8A10", 
+    "options": "[More than 10 MHz, About 3 MHz, About 1 MHz]", 
+    "question": "What is the typical bandwidth of analog fast-scan TV transmissions on the 70 cm band?"
+},
+{
+    "answer": "150 Hz", 
+    "identifier": "T8A11", 
+    "options": "[2.4 kHz, 1000 Hz, 15 kHz]", 
+    "question": "What is the approximate maximum bandwidth required to transmit a CW signal?"
+},
+{
+    "answer": "Any amateur whose license privileges allow them to transmit on the satellite uplink frequency", 
+    "identifier": "T8B01", 
+    "options": "[Only an Amateur Extra Class operator, A General Class licensee or higher licensee who has a satellite operator certification, Only an Amateur Extra Class operator who is also an AMSAT member]", 
+    "question": "Who may be the control operator of a station communicating through an amateur satellite or space station?"
+},
+{
+    "answer": "The minimum amount of power needed to complete the contact", 
+    "identifier": "T8B02", 
+    "options": "[The maximum power of your transmitter, No more than half the rating of your linear amplifier, Never more than 1 watt]", 
+    "question": "How much transmitter power should be used on the uplink frequency of an amateur satellite or space station?"
+},
+{
+    "answer": "All of these answers are correct", 
+    "identifier": "T8B03", 
+    "options": "[Maps showing the real-time position of the satellite track over the earth, The time, azimuth, and elevation of the start, maximum altitude, and end of a pass, The apparent frequency of the satellite transmission, including effects of Doppler shift]", 
+    "question": "Which of the following are provided by satellite tracking programs?"
+},
+{
+    "answer": "Any amateur holding a Technician or higher class license", 
+    "identifier": "T8B04", 
+    "options": "[Only members of amateur radio clubs at NASA facilities, Only the astronaut's family members who are hams, You cannot talk to the ISS on amateur radio frequencies]", 
+    "question": "Which amateur stations may make contact with an amateur station on the International Space Station using 2 meter and 70 cm band amateur radio frequencies?"
+},
+{
+    "answer": "A transmission from a space station that contains information about a satellite", 
+    "identifier": "T8B05", 
+    "options": "[The primary transmit antenna on the satellite, An indicator light that that shows where to point your antenna, A reflective surface on the satellite]", 
+    "question": "What is a satellite beacon?"
+},
+{
+    "answer": "The Keplerian elements", 
+    "identifier": "T8B06", 
+    "options": "[The weight of the satellite, The last observed time of zero Doppler shift, All of these answers are correct]", 
+    "question": "Which of the following are inputs to a satellite tracking program?"
+},
+{
+    "answer": "An observed change in signal frequency caused by relative motion between the satellite and the earth station", 
+    "identifier": "T8B07", 
+    "options": "[A change in the satellite orbit, A mode where the satellite receives signals on one band and transmits on another, A special digital communications mode for some satellites]", 
+    "question": "With regard to satellite communications, what is Doppler shift?"
+},
+{
+    "answer": "The satellite uplink is in the 70 cm band and the downlink is in the 2 meter band", 
+    "identifier": "T8B08", 
+    "options": "[The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band, The satellite operates using ultraviolet frequencies, The satellite frequencies are usually variable]", 
+    "question": "What is meant by the statement that a satellite is operating in mode U/V?"
+},
+{
+    "answer": "Rotation of the satellite and its antennas", 
+    "identifier": "T8B09", 
+    "options": "[Circular polarized noise interference radiated from the sun, Doppler shift of the received signal, Interfering signals within the satellite uplink band]", 
+    "question": "What causes spin fading when referring to satellite signals?"
+},
+{
+    "answer": "The satellite is in a Low Earth Orbit", 
+    "identifier": "T8B10", 
+    "options": "[The satellite battery is in Low Energy Operation mode, The satellite is performing a Lunar Ejection Orbit maneuver, The satellite uses Light Emitting Optics]", 
+    "question": "What do the initials LEO tell you about an amateur satellite?"
+},
+{
+    "answer": "FM Packet", 
+    "identifier": "T8B11", 
+    "options": "[USB AFSK, PSK31, WSJT]", 
+    "question": "What is a commonly used method of sending signals to and from a digital satellite?"
+},
+{
+    "answer": "Radio direction finding", 
+    "identifier": "T8C01", 
+    "options": "[Echolocation, Doppler radar, Phase locking]", 
+    "question": "Which of the following methods is used to locate sources of noise interference or jamming?"
+},
+{
+    "answer": "A directional antenna", 
+    "identifier": "T8C02", 
+    "options": "[Calibrated SWR meter, A calibrated noise bridge, All of these choices are correct]", 
+    "question": "Which of these items would be useful for a hidden transmitter hunt?"
+},
+{
+    "answer": "Contesting", 
+    "identifier": "T8C03", 
+    "options": "[Net operations, Public service events, Simulated emergency exercises]", 
+    "question": "What popular operating activity involves contacting as many stations as possible during a specified period of time?"
+},
+{
+    "answer": "Send only the minimum information needed for proper identification and the contest exchange", 
+    "identifier": "T8C04", 
+    "options": "[Be sure to sign only the last two letters of your call if there is a pileup calling the station, Work the station twice to be sure that you are in his log, All of these choices are correct]", 
+    "question": "Which of the following is good procedure when contacting another station in a radio contest?"
+},
+{
+    "answer": "A letter-number designator assigned to a geographic location", 
+    "identifier": "T8C05", 
+    "options": "[A letter-number designator assigned to an azimuth and elevation, An instrument for neutralizing a final amplifier, An instrument for radio direction finding]", 
+    "question": "What is a grid locator?"
+},
+{
+    "answer": "By using DTMF signals", 
+    "identifier": "T8C06", 
+    "options": "[By obtaining a password which is sent via voice to the node, By entering the proper Internet password, By using CTCSS tone codes]", 
+    "question": "How is access to an IRLP node accomplished?"
+},
+{
+    "answer": "1 watt", 
+    "identifier": "T8C07", 
+    "options": "[500 milliwatts, 25 watts, 1500 watts]", 
+    "question": "What is the maximum power allowed when transmitting telecommand signals to radio controlled models?"
+},
+{
+    "answer": "A label indicating the licensee\ufffds name, call sign and address must be affixed to the transmitter", 
+    "identifier": "T8C08", 
+    "options": "[Voice identification must be transmitted every 10 minutes, Morse code ID must be sent once per hour, A flag must be affixed to the transmitter antenna with the station call sign in 1 inch high letters or larger]", 
+    "question": "What is required in place of on-air station identification when sending signals to a radio control model using amateur frequencies?"
+},
+{
+    "answer": "From a repeater directory", 
+    "identifier": "T8C09", 
+    "options": "[From the FCC Rulebook, From your local emergency coordinator, From the local repeater frequency coordinator]", 
+    "question": "How might you obtain a list of active nodes that use VoIP?"
+},
+{
+    "answer": "Use the keypad to transmit the IRLP node ID", 
+    "identifier": "T8C10", 
+    "options": "[Choose a specific CTCSS tone, Choose the correct DSC tone, Access the repeater autopatch]", 
+    "question": "How do you select a specific IRLP node when using a portable transceiver?"
+},
+{
+    "answer": "A gateway", 
+    "identifier": "T8C11", 
+    "options": "[A repeater, A digipeater, A beacon]", 
+    "question": "What name is given to an amateur radio station that is used to connect other amateur stations to the Internet?"
+},
+{
+    "answer": "A method of delivering voice communications over the Internet using digital techniques", 
+    "identifier": "T8C12", 
+    "options": "[A set of rules specifying how to identify your station when linked over the Internet to another station, A set of guidelines for working DX during contests using Internet access, A technique for measuring the modulation quality of a transmitter using remote sites monitored via the Internet]", 
+    "question": "What is meant by Voice Over Internet Protocol (VoIP) as used in amateur radio?"
+},
+{
+    "answer": "A technique to connect amateur radio systems, such as repeaters, via the Internet using Voice Over Internet Protocol", 
+    "identifier": "T8C13", 
+    "options": "[A system for providing access to websites via amateur radio, A system for informing amateurs in real time of the frequency of active DX stations, A technique for measuring signal strength of an amateur transmitter via the Internet]", 
+    "question": "What is the Internet Radio Linking Project (IRLP)?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T8D01", 
+    "options": "[Packet, PSK31, MFSK]", 
+    "question": "Which of the following is an example of a digital communications method?"
+},
+{
+    "answer": "Automatic Packet Reporting System", 
+    "identifier": "T8D02", 
+    "options": "[Associated Public Radio Station, Auto Planning Radio Set-up, Advanced Polar Radio System]", 
+    "question": "What does the term \ufffdAPRS\ufffd mean?"
+},
+{
+    "answer": "A Global Positioning System receiver", 
+    "identifier": "T8D03", 
+    "options": "[The vehicle speedometer, A WWV receiver, A connection to a broadcast FM sub-carrier receiver]", 
+    "question": "Which of the following devices provides data to the transmitter when sending automatic position reports from a mobile amateur radio station?"
+},
+{
+    "answer": "An analog fast scan color TV signal", 
+    "identifier": "T8D04", 
+    "options": "[A Normal Transmission mode in Static Circuit, A special mode for earth satellite uplink, A frame compression scheme for TV signals]", 
+    "question": "What type of transmission is indicated by the term NTSC?"
+},
+{
+    "answer": "Providing real time tactical digital communications in conjunction with a map showing the locations of stations", 
+    "identifier": "T8D05", 
+    "options": "[Showing automatically the number of packets transmitted via PACTOR during a specific time interval, Providing voice over Internet connection between repeaters, Providing information on the number of stations signed into a repeater]", 
+    "question": "Which of the following is an application of APRS (Automatic Packet Reporting System)?"
+},
+{
+    "answer": "Phase Shift Keying", 
+    "identifier": "T8D06", 
+    "options": "[Pulse Shift Keying, Packet Short Keying, Phased Slide Keying]", 
+    "question": "What does the abbreviation PSK mean?"
+},
+{
+    "answer": "A low-rate data transmission mode", 
+    "identifier": "T8D07", 
+    "options": "[A high-rate data transmission mode, A method of reducing noise interference to FM signals, A method of compressing digital television signals]", 
+    "question": "What is PSK31?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T8D08", 
+    "options": "[A check sum which permits error detection, A header which contains the call sign of the station to which the information is being sent, Automatic repeat request in case of error]", 
+    "question": "Which of the following may be included in packet transmissions?"
+},
+{
+    "answer": "International Morse", 
+    "identifier": "T8D09", 
+    "options": "[Baudot, Hamming, Gray]", 
+    "question": "What code is used when sending CW in the amateur bands?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T8D10", 
+    "options": "[Straight Key, Electronic Keyer, Computer Keyboard]", 
+    "question": "Which of the following can be used to transmit CW in the amateur bands?"
+},
+{
+    "answer": "A digital scheme whereby the receiving station detects errors and sends a request to the sending station to retransmit the information", 
+    "identifier": "T8D11", 
+    "options": "[A special transmission format limited to video signals, A system used to encrypt command signals to an amateur radio satellite, A method of compressing the data in a message so more information can be sent in a shorter time]", 
+    "question": "What is an ARQ transmission system?"
+},
+{
+    "answer": "An antenna that concentrates signals in one direction", 
+    "identifier": "T9A01", 
+    "options": "[An antenna built from aluminum I-beams, An omnidirectional antenna invented by Clarence Beam, An antenna that reverses the phase of received signals]", 
+    "question": "What is a beam antenna?"
+},
+{
+    "answer": "The electric field is perpendicular to the Earth", 
+    "identifier": "T9A02", 
+    "options": "[The magnetic field is perpendicular to the Earth, The phase is inverted, The phase is reversed]", 
+    "question": "Which of the following is true regarding vertical antennas?"
+},
+{
+    "answer": "A horizontally polarized antenna", 
+    "identifier": "T9A03", 
+    "options": "[A ground wave antenna, A rhombic antenna, A vertically polarized antenna]", 
+    "question": "Which of the following describes a simple dipole mounted so the conductor is parallel to the Earth's surface?"
+},
+{
+    "answer": "It does not transmit or receive as effectively as a full-sized antenna", 
+    "identifier": "T9A04", 
+    "options": "[It transmits a circularly polarized signal, If the rubber end cap is lost it will unravel very quickly, All of these choices are correct]", 
+    "question": "What is a disadvantage of the \ufffdrubber duck\ufffd antenna supplied with most handheld radio transceivers?"
+},
+{
+    "answer": "Shorten it", 
+    "identifier": "T9A05", 
+    "options": "[Lengthen it, Insert coils in series with radiating wires, Add capacitive loading to the ends of the radiating wires]", 
+    "question": "How would you change a dipole antenna to make it resonant on a higher frequency?"
+},
+{
+    "answer": "Directional antennas", 
+    "identifier": "T9A06", 
+    "options": "[Non-resonant antennas, Loop antennas, Isotropic antennas]", 
+    "question": "What type of antennas are the quad, Yagi, and dish?"
+},
+{
+    "answer": "Signals can be significantly weaker than when it is outside of the vehicle", 
+    "identifier": "T9A07", 
+    "options": "[It might cause your radio to overheat, The SWR might decrease, decreasing the signal strength, All of these choices are correct]", 
+    "question": "What is a good reason not to use a \ufffdrubber duck\ufffd antenna inside your car?"
+},
+{
+    "answer": "19", 
+    "identifier": "T9A08", 
+    "options": "[112, 50, 12]", 
+    "question": "What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?"
+},
+{
+    "answer": "112", 
+    "identifier": "T9A09", 
+    "options": "[6, 50, 236]", 
+    "question": "What is the approximate length, in inches, of a 6 meter 1/2-wavelength wire dipole antenna?"
+},
+{
+    "answer": "Broadside to the antenna", 
+    "identifier": "T9A10", 
+    "options": "[Equally in all directions, Off the ends of the antenna, In the direction of the feed line]", 
+    "question": "In which direction is the radiation strongest from a half-wave dipole antenna in free space?"
+},
+{
+    "answer": "The increase in signal strength in a specified direction when compared to a reference antenna", 
+    "identifier": "T9A11", 
+    "options": "[The additional power that is added to the transmitter power, The additional power that is lost in the antenna when transmitting on a higher frequency, The increase in impedance on receive or transmit compared to a reference antenna]", 
+    "question": "What is meant by the gain of an antenna?"
+},
+{
+    "answer": "It offers a lower angle of radiation and more gain than a 1/4 wavelength antenna and usually provides improved coverage", 
+    "identifier": "T9A12", 
+    "options": "[It features a very high angle of radiation and is better for communicating via a repeater, The 5/8 wavelength antenna completely eliminates distortion caused by reflected signals, The 5/8 wavelength antenna offers a 10-times power gain over a 1/4 wavelength design]", 
+    "question": "What is a reason to use a properly mounted 5/8 wavelength antenna for VHF or UHF mobile service?"
+},
+{
+    "answer": "A roof mounted antenna normally provides the most uniform radiation pattern", 
+    "identifier": "T9A13", 
+    "options": "[Roof mounts have the lowest possible SWR of any mounting configuration, Only roof mounting can guarantee a vertically polarized signal, Roof mounted antennas are always the easiest to install]", 
+    "question": "Why are VHF or UHF mobile antennas often mounted in the center of the vehicle roof?"
+},
+{
+    "answer": "Inserting an inductor in the radiating portion of the antenna to make it electrically longer", 
+    "identifier": "T9A14", 
+    "options": "[Inserting a resistor in the radiating portion of the antenna to make it resonant, Installing a spring at the base of the antenna to absorb the effects of collisions with other objects, Making the antenna heavier so it will resist wind effects when in motion]", 
+    "question": "Which of the following terms describes a type of loading when referring to an antenna?"
+},
+{
+    "answer": "To allow the efficient transfer of power and reduce losses", 
+    "identifier": "T9B01", 
+    "options": "[To reduce television interference, To prolong antenna life, All of these choices are correct]", 
+    "question": "Why is it important to have a low SWR in an antenna system that uses coaxial cable feed line?"
+},
+{
+    "answer": "50 ohms", 
+    "identifier": "T9B02", 
+    "options": "[8 ohms, 600 ohms, 12 ohms]", 
+    "question": "What is the impedance of the most commonly used coaxial cable in typical amateur radio installations?"
+},
+{
+    "answer": "It is easy to use and requires few special installation considerations", 
+    "identifier": "T9B03", 
+    "options": "[It has less loss than any other type of feed line, It can handle more power than any other type of feed line, It is less expensive than any other types of feed line]", 
+    "question": "Why is coaxial cable used more often than any other feed line for amateur radio antenna systems?"
+},
+{
+    "answer": "It matches the antenna system impedance to the transceiver's output impedance", 
+    "identifier": "T9B04", 
+    "options": "[It helps a receiver automatically tune in weak stations, It allows an antenna to be used on both transmit and receive, It automatically selects the proper antenna for the frequency band being used]", 
+    "question": "What does an antenna tuner do?"
+},
+{
+    "answer": "The loss increases", 
+    "identifier": "T9B05", 
+    "options": "[The apparent SWR increases, The reflected power increases, The characteristic impedance increases]", 
+    "question": "What generally happens as the frequency of a signal passing through coaxial cable is increased?"
+},
+{
+    "answer": "A Type N connector", 
+    "identifier": "T9B06", 
+    "options": "[A UHF (PL-259/SO-239) connector, An RS-213 connector, A DB-25 connector]", 
+    "question": "Which of the following connectors is most suitable for frequencies above 400 MHz?"
+},
+{
+    "answer": "They are commonly used at HF frequencies", 
+    "identifier": "T9B07", 
+    "options": "[They are preferred for microwave operation, They are water tight, They are a bayonet type connector]", 
+    "question": "Which of the following is true of PL-259 type coax connectors?"
+},
+{
+    "answer": "To prevent an increase in feed line loss", 
+    "identifier": "T9B08", 
+    "options": "[To prevent interference to telephones, To keep the jacket from becoming loose, All of these choices are correct]", 
+    "question": "Why should coax connectors exposed to the weather be sealed against water intrusion?"
+},
+{
+    "answer": "A loose connection in an antenna or a feed line", 
+    "identifier": "T9B09", 
+    "options": "[The transmitter is being modulated, The transmitter is being over-modulated, Interference from other stations is distorting your signal]", 
+    "question": "What might cause erratic changes in SWR readings?"
+},
+{
+    "answer": "RG-8 cable has less loss at a given frequency", 
+    "identifier": "T9B10", 
+    "options": "[There is no significant difference between the two types, RG-58 cable has less loss at a given frequency, RG-58 cable can handle higher power levels]", 
+    "question": "What electrical difference exists between the smaller RG-58 and larger RG-8 coaxial cables?"
+},
+{
+    "answer": "Air-insulated hard line", 
+    "identifier": "T9B11", 
+    "options": "[50-ohm flexible coax, Multi-conductor unbalanced cable, 75-ohm flexible coax]", 
+    "question": "Which of the following types of feed line has the lowest loss at VHF and UHF?"
+},
+{
+    "answer": "Shorting the terminals can cause burns, fire, or an explosion", 
+    "identifier": "T0A01", 
+    "options": "[Touching both terminals with the hands can cause electrical shock, RF emissions from the battery, All of these choices are correct]", 
+    "question": "Which of the following is a safety hazard of a 12-volt storage battery?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T0A02", 
+    "options": "[By heating tissue, It disrupts the electrical functions of cells, It causes involuntary muscle contractions]", 
+    "question": "How does current flowing through the body cause a health hazard?"
+},
+{
+    "answer": "Safety ground", 
+    "identifier": "T0A03", 
+    "options": "[Neutral, Hot, The white wire]", 
+    "question": "What is connected to the green wire in a three-wire electrical AC plug?"
+},
+{
+    "answer": "To interrupt power in case of overload", 
+    "identifier": "T0A04", 
+    "options": "[To prevent power supply ripple from damaging a circuit, To limit current to prevent shocks, All of these choices are correct]", 
+    "question": "What is the purpose of a fuse in an electrical circuit?"
+},
+{
+    "answer": "Excessive current could cause a fire", 
+    "identifier": "T0A05", 
+    "options": "[The larger fuse would be likely to blow because it is rated for higher current, The power supply ripple would greatly increase, All of these choices are correct]", 
+    "question": "Why is it unwise to install a 20-ampere fuse in the place of a 5-ampere fuse?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T0A06", 
+    "options": "[Use three-wire cords and plugs for all AC powered equipment, Connect all AC powered station equipment to a common safety ground, Use a circuit protected by a ground-fault interrupter]", 
+    "question": "What is a good way to guard against electrical shock at your station?"
+},
+{
+    "answer": "Ground all of the protectors to a common plate which is in turn connected to an external ground", 
+    "identifier": "T0A07", 
+    "options": "[Include a parallel bypass switch for each protector so that it can be switched out of the circuit when running high power, Include a series switch in the ground line of each protector to prevent RF overload from inadvertently damaging the protector, Keep the ground wires from each protector separate and connected to station ground]", 
+    "question": "Which of these precautions should be taken when installing devices for lightning protection in a coaxial cable feed line?"
+},
+{
+    "answer": "A fuse or circuit breaker in series with the AC hot conductor", 
+    "identifier": "T0A08", 
+    "options": "[An AC voltmeter across the incoming power source, An inductor in series with the AC power source, A capacitor across the AC power source]", 
+    "question": "What safety equipment should always be included in home-built equipment that is powered from 120V AC power circuits?"
+},
+{
+    "answer": "Explosive gas can collect if not properly vented", 
+    "identifier": "T0A09", 
+    "options": "[It emits ozone which can be harmful to the atmosphere, Shock hazard due to high voltage, All of these choices are correct]", 
+    "question": "What kind of hazard is presented by a conventional 12-volt storage battery?"
+},
+{
+    "answer": "The battery could overheat and give off flammable gas or explode", 
+    "identifier": "T0A10", 
+    "options": "[The voltage can become reversed, The memory effect will reduce the capacity of the battery, All of these choices are correct]", 
+    "question": "What can happen if a lead-acid storage battery is charged or discharged too quickly?"
+},
+{
+    "answer": "You might receive an electric shock from the charged stored in large capacitors", 
+    "identifier": "T0A11", 
+    "options": "[Static electricity could damage the grounding system, Circulating currents inside the transformer might cause damage, The fuse might blow if you remove the cover]", 
+    "question": "What kind of hazard might exist in a power supply when it is turned off and disconnected?"
+},
+{
+    "answer": "At all times when any work is being done on the tower", 
+    "identifier": "T0B01", 
+    "options": "[At all times except when climbing the tower, At all times except when belted firmly to the tower, Only when the tower exceeds 30 feet in height]", 
+    "question": "When should members of a tower work team wear a hard hat and safety glasses?"
+},
+{
+    "answer": "Put on a climbing harness and safety glasses", 
+    "identifier": "T0B02", 
+    "options": "[Make sure that you wear a grounded wrist strap, Remove all tower grounding connections, All of the these choices are correct]", 
+    "question": "What is a good precaution to observe before climbing an antenna tower?"
+},
+{
+    "answer": "Never", 
+    "identifier": "T0B03", 
+    "options": "[When no electrical work is being performed, When no mechanical work is being performed, When the work being done is not more than 20 feet above the ground]", 
+    "question": "Under what circumstances is it safe to climb a tower without a helper or observer?"
+},
+{
+    "answer": "Look for and stay clear of any overhead electrical wires", 
+    "identifier": "T0B04", 
+    "options": "[Wear a ground strap connected to your wrist at all times, Insulate the base of the tower to avoid lightning strikes, All of these choices are correct]", 
+    "question": "Which of the following is an important safety precaution to observe when putting up an antenna tower?"
+},
+{
+    "answer": "To lift tower sections or antennas", 
+    "identifier": "T0B05", 
+    "options": "[To temporarily replace guy wires, To be used in place of a safety harness, To provide a temporary ground]", 
+    "question": "What is the purpose of a gin pole?"
+},
+{
+    "answer": "So that if the antenna falls unexpectedly, no part of it can come closer than 10 feet to the power wires", 
+    "identifier": "T0B06", 
+    "options": "[Half the width of your property, The height of the power line above ground, 1/2 wavelength at the operating frequency]", 
+    "question": "What is the minimum safe distance from a power line to allow when installing an antenna?"
+},
+{
+    "answer": "This type of tower must never be climbed unless it is in the fully retracted position", 
+    "identifier": "T0B07", 
+    "options": "[This type of tower must never be painted, This type of tower must never be grounded, All of these choices are correct]", 
+    "question": "Which of the following is an important safety rule to remember when using a crank-up tower?"
+},
+{
+    "answer": "Separate eight-foot long ground rods for each tower leg, bonded to the tower and each other", 
+    "identifier": "T0B08", 
+    "options": "[A single four-foot ground rod, driven into the ground no more than 12 inches from the base, A ferrite-core RF choke connected between the tower and ground, A connection between the tower base and a cold water pipe]", 
+    "question": "What is considered to be a proper grounding method for a tower?"
+},
+{
+    "answer": "The antenna could contact high-voltage power wires", 
+    "identifier": "T0B09", 
+    "options": "[The antenna will not work properly because of induced voltages, The utility company will charge you an extra monthly fee, All of these choices are correct]", 
+    "question": "Why should you avoid attaching an antenna to a utility pole?"
+},
+{
+    "answer": "Sharp bends must be avoided", 
+    "identifier": "T0B10", 
+    "options": "[Only non-insulated wire must be used, Wires must be carefully routed with precise right-angle bends, Common grounds must be avoided]", 
+    "question": "Which of the following is true concerning grounding conductors used for lightning protection?"
+},
+{
+    "answer": "Local electrical codes", 
+    "identifier": "T0B11", 
+    "options": "[FCC Part 97 Rules, FAA tower lighting regulations, Underwriters Laboratories' recommended practices]", 
+    "question": "Which of the following establishes grounding requirements for an amateur radio tower or antenna?"
+},
+{
+    "answer": "Ensure that connections are short and direct", 
+    "identifier": "T0B12", 
+    "options": "[Put a loop in the ground connection to prevent water damage to the ground system, Make sure that all bends in the ground wires are clean, right angle bends, All of these choices are correct]", 
+    "question": "Which of the following is good practice when installing ground wires on a tower for lightning protection?"
+},
+{
+    "answer": "Non-ionizing radiation", 
+    "identifier": "T0C01", 
+    "options": "[Gamma radiation, Ionizing radiation, Alpha radiation]", 
+    "question": "What type of radiation are VHF and UHF radio signals?"
+},
+{
+    "answer": "50 MHz", 
+    "identifier": "T0C02", 
+    "options": "[3.5 MHz, 440 MHz, 1296 MHz]", 
+    "question": "Which of the following frequencies has the lowest value for Maximum Permissible Exposure limit?"
+},
+{
+    "answer": "50 watts PEP at the antenna", 
+    "identifier": "T0C03", 
+    "options": "[1500 watts PEP transmitter output, 1 watt forward power, 50 watts PEP reflected power]", 
+    "question": "What is the maximum power level that an amateur radio station may use at VHF frequencies before an RF exposure evaluation is required?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T0C04", 
+    "options": "[Frequency and power level of the RF field, Distance from the antenna to a person, Radiation pattern of the antenna]", 
+    "question": "What factors affect the RF exposure of people near an amateur station antenna?"
+},
+{
+    "answer": "The human body absorbs more RF energy at some frequencies than at others", 
+    "identifier": "T0C05", 
+    "options": "[Lower frequency RF fields have more energy than higher frequency fields, Lower frequency RF fields do not penetrate the human body, Higher frequency RF fields are transient in nature]", 
+    "question": "Why do exposure limits vary with frequency?"
+},
+{
+    "answer": "All of these choices are correct", 
+    "identifier": "T0C06", 
+    "options": "[By calculation based on FCC OET Bulletin 65, By calculation based on computer modeling, By measurement of field strength using calibrated equipment]", 
+    "question": "Which of the following is an acceptable method to determine that your station complies with FCC RF exposure regulations?"
+},
+{
+    "answer": "They might receive a painful RF burn", 
+    "identifier": "T0C07", 
+    "options": "[Touching the antenna could cause television interference, They might develop radiation poisoning, All of these choices are correct]", 
+    "question": "What could happen if a person accidentally touched your antenna while you were transmitting?"
+},
+{
+    "answer": "Relocate antennas", 
+    "identifier": "T0C08", 
+    "options": "[Relocate the transmitter, Increase the duty cycle, All of these choices are correct]", 
+    "question": "Which of the following actions might amateur operators take to prevent exposure to RF radiation in excess of FCC-supplied limits?"
+},
+{
+    "answer": "By re-evaluating the station whenever an item of equipment is changed", 
+    "identifier": "T0C09", 
+    "options": "[By informing the FCC of any changes made in your station, By making sure your antennas have low SWR, All of these choices are correct]", 
+    "question": "How can you make sure your station stays in compliance with RF safety regulations?"
+},
+{
+    "answer": "It affects the average exposure of people to radiation", 
+    "identifier": "T0C10", 
+    "options": "[It affects the peak exposure of people to radiation, It takes into account the antenna feed line loss, It takes into account the thermal effects of the final amplifier]", 
+    "question": "Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?"
+},
+{
+    "answer": "The percentage of time that a transmitter is transmitting", 
+    "identifier": "T0C11", 
+    "options": "[The difference between the lowest power output and the highest power output of a transmitter, The difference between the PEP and average power output of a transmitter, The percentage of time that a transmitter is not transmitting]", 
+    "question": "What is the definition of duty cycle during the averaging time for RF exposure?"
+},
+{
+    "answer": "RF radiation does not have sufficient energy to cause genetic damage", 
+    "identifier": "T0C12", 
+    "options": "[RF radiation can only be detected with an RF dosimeter, RF radiation is limited in range to a few feet, RF radiation is perfectly safe]", 
+    "question": "How does RF radiation differ from ionizing radiation (radioactivity)?"
+},
+{
+    "answer": "2 times as much", 
+    "identifier": "T0C13", 
+    "options": "[3 times as much, 1/2 as much, There is no adjustment allowed for shorter exposure times]", 
+    "question": "If the averaging time for exposure is 6 minutes, how much power density is permitted if the signal is present for 3 minutes and absent for 3 minutes rather than being present for the entire 6 minutes?"
+}]
